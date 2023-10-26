@@ -37,7 +37,7 @@
     "SavingIntellect": 0,
     "SavingWisdom": 0,
     "SavingCharisma": 0,
-    "LoverId": null,
+    "LoverId": "zatanna",
     "Skills": [
       {
         "Skill": "verdens mester til duel"
@@ -118,7 +118,7 @@
     "SavingIntellect": 0,
     "SavingWisdom": 0,
     "SavingCharisma": 0,
-    "LoverId": null,
+    "LoverId": "darthjacob",
     "Skills": [
       {
         "Skill": "pro til magi"
