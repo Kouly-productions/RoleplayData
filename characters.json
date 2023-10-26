@@ -1,128 +1,176 @@
 [
   {
-    "Name": "awf",
-    "Country": "aegae",
-    "Money": "31453",
-    "Description": "aegaeg",
-    "Level": 21,
-    "Health": 2,
-    "Armor": 2,
-    "Haste": 2,
-    "Strength": 9,
-    "Dexterity": 9,
-    "Constitution": 9,
-    "Intellect": 9,
-    "Wisdom": 9,
-    "Charisma": 9,
-    "Actrobatic": 9,
-    "AnimalTaiming": 9,
-    "Arcana": 9,
-    "Athletics": 9,
-    "Deception": 9,
-    "History": 9,
-    "Insight": 9,
-    "Intimidation": 9,
-    "Investigation": 9,
-    "Medicine": 9,
-    "Nature": 9,
-    "Perception": 9,
-    "Performance": 9,
-    "Persuasion": 9,
-    "SleightOfHand": 9,
-    "Stealth": 9,
-    "Survival": 9,
-    "SavingStrength": 9,
-    "SavingDexterity": 9,
-    "SavingConstitution": 9,
-    "SavingIntellect": 9,
-    "SavingWisdom": 9,
-    "SavingCharisma": 9,
+    "Name": "darthjacob",
+    "Country": "danmark",
+    "Money": "5milioner",
+    "Description": "den 2 stærksteste boss der er,svaghed,ekrem varme og onyxia",
+    "Level": 10,
+    "Health": 250,
+    "Armor": 20,
+    "Haste": 110,
+    "Strength": 30,
+    "Dexterity": 27,
+    "Constitution": 25,
+    "Intellect": 30,
+    "Wisdom": 8,
+    "Charisma": 3,
+    "Actrobatic": 3,
+    "AnimalTaiming": 0,
+    "Arcana": 4,
+    "Athletics": 2,
+    "Deception": 2,
+    "History": 2,
+    "Insight": 3,
+    "Intimidation": 5,
+    "Investigation": 4,
+    "Medicine": 2,
+    "Nature": 2,
+    "Perception": 2,
+    "Performance": 1,
+    "Persuasion": 3,
+    "SleightOfHand": 6,
+    "Stealth": 1,
+    "Survival": 6,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
     "LoverId": null,
     "Skills": [
       {
-        "Skill": "aeg"
+        "Skill": "verdens mester til duel"
+      },
+      {
+        "Skill": "lære nem om magiske krafter"
       }
     ],
     "Friends": [
       {
-        "Friend": "aeg"
+        "Friend": "superhero girlsne"
+      },
+      {
+        "Friend": "middelalder landet"
       }
     ],
     "Enemies": [
       {
-        "Enemy": "aeg"
+        "Enemy": "freddysne"
       },
       {
-        "Enemy": "aeg"
+        "Enemy": "danmark"
+      },
+      {
+        "Enemy": "darklands"
+      },
+      {
+        "Enemy": "dr.benjamin"
+      },
+      {
+        "Enemy": "onyxia"
+      },
+      {
+        "Enemy": "ragnaros"
       }
     ],
-    "ModifiersCombined": -6,
+    "ModifiersCombined": 30,
     "Gender": 0,
-    "Type": 1,
-    "Age": 21,
-    "ImagePath": "Chica.jpg"
+    "Type": 0,
+    "Age": 18,
+    "ImagePath": "jacobskurken.jpg"
   },
   {
-    "Name": "agwag",
-    "Country": "eag",
-    "Money": "3145",
-    "Description": "aeg",
-    "Level": 135,
-    "Health": 21,
-    "Armor": 21,
-    "Haste": 21,
-    "Strength": 8,
-    "Dexterity": 8,
-    "Constitution": 8,
-    "Intellect": 8,
-    "Wisdom": 8,
-    "Charisma": 8,
-    "Actrobatic": 8,
-    "AnimalTaiming": 8,
-    "Arcana": 8,
-    "Athletics": 8,
-    "Deception": 8,
-    "History": 8,
-    "Insight": 8,
-    "Intimidation": 8,
-    "Investigation": 8,
-    "Medicine": 8,
-    "Nature": 8,
-    "Perception": 8,
-    "Performance": 8,
-    "Persuasion": 8,
-    "SleightOfHand": 8,
-    "Stealth": 8,
-    "Survival": 8,
-    "SavingStrength": 8,
-    "SavingDexterity": 8,
-    "SavingConstitution": 8,
-    "SavingIntellect": 8,
-    "SavingWisdom": 8,
-    "SavingCharisma": 8,
+    "Name": "zatanna",
+    "Country": "metropolis",
+    "Money": "1milion",
+    "Description": "meget sød og vennelig,over dullet,ron dullet,taber heletiden bukserne fordi hun heletiden glemmer bæltet,hun har også en mørkeside,men styre den nemt",
+    "Level": 5,
+    "Health": 10,
+    "Armor": 10,
+    "Haste": 60,
+    "Strength": 7,
+    "Dexterity": 10,
+    "Constitution": 10,
+    "Intellect": 27,
+    "Wisdom": 18,
+    "Charisma": 30,
+    "Actrobatic": 1,
+    "AnimalTaiming": 2,
+    "Arcana": 4,
+    "Athletics": 1,
+    "Deception": 0,
+    "History": 5,
+    "Insight": 4,
+    "Intimidation": 1,
+    "Investigation": 5,
+    "Medicine": 1,
+    "Nature": 4,
+    "Perception": 3,
+    "Performance": 6,
+    "Persuasion": 6,
+    "SleightOfHand": 5,
+    "Stealth": 3,
+    "Survival": 5,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
     "LoverId": null,
     "Skills": [
       {
-        "Skill": "aeg"
+        "Skill": "pro til magi"
+      },
+      {
+        "Skill": "mester til duelist"
+      },
+      {
+        "Skill": "lære nem"
+      },
+      {
+        "Skill": "verdens mester til underholdnin"
+      },
+      {
+        "Skill": "omsorgsfuld"
+      },
+      {
+        "Skill": "ekspert til tøjstil"
       }
     ],
     "Friends": [
       {
-        "Friend": "aeg"
+        "Friend": "jacobhelten"
+      },
+      {
+        "Friend": "alle fra metropolis"
+      },
+      {
+        "Friend": "darklands"
+      },
+      {
+        "Friend": "raven"
+      },
+      {
+        "Friend": "cyborg"
       }
     ],
     "Enemies": [
       {
-        "Enemy": "aeg"
+        "Enemy": "freddy"
       },
       {
-        "Enemy": "aeg"
+        "Enemy": "mortimor"
+      },
+      {
+        "Enemy": "marit herskeren"
       }
     ],
-    "ModifiersCombined": -6,
-    "Gender": 0,
-    "Type": 1,
-    "Age": 123,
-    "ImagePath": "Freddy1.jpg"
+    "ModifiersCombined": 20,
+    "Gender": 1,
+    "Type": 0,
+    "Age": 18,
+    "ImagePath": "zee.jpg"
   }
 ]
