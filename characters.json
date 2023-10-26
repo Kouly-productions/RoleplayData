@@ -1,0 +1,128 @@
+[
+  {
+    "Name": "awf",
+    "Country": "aegae",
+    "Money": "31453",
+    "Description": "aegaeg",
+    "Level": 21,
+    "Health": 2,
+    "Armor": 2,
+    "Haste": 2,
+    "Strength": 9,
+    "Dexterity": 9,
+    "Constitution": 9,
+    "Intellect": 9,
+    "Wisdom": 9,
+    "Charisma": 9,
+    "Actrobatic": 9,
+    "AnimalTaiming": 9,
+    "Arcana": 9,
+    "Athletics": 9,
+    "Deception": 9,
+    "History": 9,
+    "Insight": 9,
+    "Intimidation": 9,
+    "Investigation": 9,
+    "Medicine": 9,
+    "Nature": 9,
+    "Perception": 9,
+    "Performance": 9,
+    "Persuasion": 9,
+    "SleightOfHand": 9,
+    "Stealth": 9,
+    "Survival": 9,
+    "SavingStrength": 9,
+    "SavingDexterity": 9,
+    "SavingConstitution": 9,
+    "SavingIntellect": 9,
+    "SavingWisdom": 9,
+    "SavingCharisma": 9,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "aeg"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "aeg"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "aeg"
+      },
+      {
+        "Enemy": "aeg"
+      }
+    ],
+    "ModifiersCombined": -6,
+    "Gender": 0,
+    "Type": 1,
+    "Age": 21,
+    "ImagePath": "Chica.jpg"
+  },
+  {
+    "Name": "agwag",
+    "Country": "eag",
+    "Money": "3145",
+    "Description": "aeg",
+    "Level": 135,
+    "Health": 21,
+    "Armor": 21,
+    "Haste": 21,
+    "Strength": 8,
+    "Dexterity": 8,
+    "Constitution": 8,
+    "Intellect": 8,
+    "Wisdom": 8,
+    "Charisma": 8,
+    "Actrobatic": 8,
+    "AnimalTaiming": 8,
+    "Arcana": 8,
+    "Athletics": 8,
+    "Deception": 8,
+    "History": 8,
+    "Insight": 8,
+    "Intimidation": 8,
+    "Investigation": 8,
+    "Medicine": 8,
+    "Nature": 8,
+    "Perception": 8,
+    "Performance": 8,
+    "Persuasion": 8,
+    "SleightOfHand": 8,
+    "Stealth": 8,
+    "Survival": 8,
+    "SavingStrength": 8,
+    "SavingDexterity": 8,
+    "SavingConstitution": 8,
+    "SavingIntellect": 8,
+    "SavingWisdom": 8,
+    "SavingCharisma": 8,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "aeg"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "aeg"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "aeg"
+      },
+      {
+        "Enemy": "aeg"
+      }
+    ],
+    "ModifiersCombined": -6,
+    "Gender": 0,
+    "Type": 1,
+    "Age": 123,
+    "ImagePath": "Freddy1.jpg"
+  }
+]
