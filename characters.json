@@ -1,1 +1,69 @@
+<<<<<<< HEAD
 []
+=======
+[
+  {
+    "Name": "Chica",
+    "Country": "Fnaf landet",
+    "Money": "1000",
+    "Description": "Chica er en en robot som ofte er flabet, mest mod Freddy. Hun bliver hurtigt flabet mod andre, og derfor er der heller ikke mange der kan lide hende.",
+    "Level": 1,
+    "Health": 45,
+    "Armor": 10,
+    "Haste": 15,
+    "Strength": 12,
+    "Dexterity": 3,
+    "Constitution": 10,
+    "Intellect": 4,
+    "Wisdom": 2,
+    "Charisma": 2,
+    "Actrobatic": 0,
+    "AnimalTaiming": 0,
+    "Arcana": 0,
+    "Athletics": 0,
+    "Deception": 1,
+    "History": 1,
+    "Insight": 0,
+    "Intimidation": 0,
+    "Investigation": 0,
+    "Medicine": 0,
+    "Nature": 0,
+    "Perception": 0,
+    "Performance": 0,
+    "Persuasion": 0,
+    "SleightOfHand": 0,
+    "Stealth": 0,
+    "Survival": 0,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "Lave god Pizza"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "Bonnie"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "Freddy"
+      },
+      {
+        "Enemy": "Foxy"
+      }
+    ],
+    "ModifiersCombined": -14,
+    "Gender": 1,
+    "Type": 1,
+    "Age": 9,
+    "ImagePath": "Chica.jpg"
+  }
+]
+>>>>>>> 0b5b39f0778a7ba0ab223ad9955c4d63939c01bb
