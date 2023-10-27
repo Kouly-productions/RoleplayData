@@ -753,5 +753,64 @@
     "Type": 0,
     "Age": 20,
     "ImagePath": "green arrow-638340202913843156.jpg"
+  },
+  {
+    "Name": "Onyxia",
+    "Country": "Onyxia's Lair",
+    "Money": "0",
+    "Description": "Onyxia er en ond drage, som er god til at snyde andre. Hun har evnen til at ligne et menneske, og kan se ud som hun har lyst",
+    "Level": 17,
+    "Health": 200,
+    "Armor": 19,
+    "Haste": 45,
+    "Strength": 30,
+    "Dexterity": 20,
+    "Constitution": 30,
+    "Intellect": 25,
+    "Wisdom": 20,
+    "Charisma": 25,
+    "Actrobatic": 5,
+    "AnimalTaiming": 1,
+    "Arcana": 6,
+    "Athletics": 6,
+    "Deception": 6,
+    "History": 5,
+    "Insight": 5,
+    "Intimidation": 6,
+    "Investigation": 4,
+    "Medicine": 0,
+    "Nature": 4,
+    "Perception": 5,
+    "Performance": 4,
+    "Persuasion": 6,
+    "SleightOfHand": 3,
+    "Stealth": 4,
+    "Survival": 3,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "God til at snyde"
+      }
+    ],
+    "Friends": [],
+    "Enemies": [
+      {
+        "Enemy": "Darth Jacob"
+      },
+      {
+        "Enemy": "Ragnaros"
+      }
+    ],
+    "ModifiersCombined": 44,
+    "Gender": 1,
+    "Type": 2,
+    "Age": 421,
+    "ImagePath": "Onyxia-638340213766025042.jpg"
   }
 ]
