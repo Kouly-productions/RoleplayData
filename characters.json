@@ -1173,5 +1173,60 @@
     "Type": 0,
     "Age": 30,
     "ImagePath": "batman-638340280456579126.jpg"
+  },
+  {
+    "Name": "wonderwomen",
+    "Country": "metropolis",
+    "Money": "50,000",
+    "Description": "",
+    "Level": 13,
+    "Health": 200,
+    "Armor": 18,
+    "Haste": 70,
+    "Strength": 26,
+    "Dexterity": 24,
+    "Constitution": 22,
+    "Intellect": 12,
+    "Wisdom": 17,
+    "Charisma": 18,
+    "Actrobatic": 5,
+    "AnimalTaiming": 0,
+    "Arcana": 2,
+    "Athletics": 6,
+    "Deception": 0,
+    "History": 4,
+    "Insight": 6,
+    "Intimidation": 0,
+    "Investigation": 4,
+    "Medicine": 1,
+    "Nature": 3,
+    "Perception": 3,
+    "Performance": 4,
+    "Persuasion": 5,
+    "SleightOfHand": 3,
+    "Stealth": 2,
+    "Survival": 6,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [],
+    "Friends": [
+      {
+        "Friend": "jacobhelten"
+      },
+      {
+        "Friend": "superherogirlsne"
+      }
+    ],
+    "Enemies": [],
+    "ModifiersCombined": 29,
+    "Gender": 1,
+    "Type": 5,
+    "Age": 120,
+    "ImagePath": "wonder women-638340291664956671.jpg"
   }
 ]
