@@ -304,5 +304,131 @@
     "Type": 0,
     "Age": 20,
     "ImagePath": "superman-638340158989339785.jpg"
+  },
+  {
+    "Name": "Chica",
+    "Country": "Fnaf landet",
+    "Money": "1000",
+    "Description": "Chica er en flabet robot, mest flabet mod Freddy. Hun elsker at lave mad, men hun kan endnu bedre lide at være irretende",
+    "Level": 2,
+    "Health": 55,
+    "Armor": 14,
+    "Haste": 15,
+    "Strength": 14,
+    "Dexterity": 6,
+    "Constitution": 14,
+    "Intellect": 5,
+    "Wisdom": 6,
+    "Charisma": 4,
+    "Actrobatic": 0,
+    "AnimalTaiming": 0,
+    "Arcana": 0,
+    "Athletics": 0,
+    "Deception": 1,
+    "History": 0,
+    "Insight": 0,
+    "Intimidation": 0,
+    "Investigation": 0,
+    "Medicine": 0,
+    "Nature": 0,
+    "Perception": 1,
+    "Performance": 0,
+    "Persuasion": 0,
+    "SleightOfHand": 0,
+    "Stealth": 0,
+    "Survival": 0,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "God til madlavning"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "Bonnie"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "Freddy"
+      },
+      {
+        "Enemy": "Foxy"
+      }
+    ],
+    "ModifiersCombined": -6,
+    "Gender": 1,
+    "Type": 1,
+    "Age": 9,
+    "ImagePath": "Chica-638340159140088588.jpg"
+  },
+  {
+    "Name": "Bonnie",
+    "Country": "Fnaf landet",
+    "Money": "500",
+    "Description": "Bonnie er ret dum til hvad der er bedst, han er ofte flabet men mest mod Freddy.",
+    "Level": 2,
+    "Health": 55,
+    "Armor": 14,
+    "Haste": 15,
+    "Strength": 13,
+    "Dexterity": 10,
+    "Constitution": 13,
+    "Intellect": 3,
+    "Wisdom": 3,
+    "Charisma": 5,
+    "Actrobatic": 0,
+    "AnimalTaiming": 0,
+    "Arcana": 0,
+    "Athletics": 0,
+    "Deception": 2,
+    "History": 1,
+    "Insight": 1,
+    "Intimidation": 0,
+    "Investigation": 1,
+    "Medicine": 0,
+    "Nature": 0,
+    "Perception": 0,
+    "Performance": 1,
+    "Persuasion": 0,
+    "SleightOfHand": 0,
+    "Stealth": 0,
+    "Survival": 0,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "Spille guitar"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "Chica"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "Freddy"
+      },
+      {
+        "Enemy": "Foxy"
+      }
+    ],
+    "ModifiersCombined": -9,
+    "Gender": 0,
+    "Type": 1,
+    "Age": 9,
+    "ImagePath": "Bonnie-638340164229896340.jpg"
   }
 ]
