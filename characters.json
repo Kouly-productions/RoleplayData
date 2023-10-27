@@ -430,5 +430,67 @@
     "Type": 1,
     "Age": 9,
     "ImagePath": "Bonnie-638340164229896340.jpg"
+  },
+  {
+    "Name": "supergirl",
+    "Country": "metropolis",
+    "Money": "40,000",
+    "Description": "har høj tempromang,svaghed kroptonit og magiere",
+    "Level": 4,
+    "Health": 220,
+    "Armor": 17,
+    "Haste": 110,
+    "Strength": 29,
+    "Dexterity": 8,
+    "Constitution": 24,
+    "Intellect": 6,
+    "Wisdom": 10,
+    "Charisma": 9,
+    "Actrobatic": 5,
+    "AnimalTaiming": 2,
+    "Arcana": 3,
+    "Athletics": 6,
+    "Deception": 0,
+    "History": 0,
+    "Insight": 4,
+    "Intimidation": 4,
+    "Investigation": 1,
+    "Medicine": 0,
+    "Nature": 1,
+    "Perception": 6,
+    "Performance": 0,
+    "Persuasion": 1,
+    "SleightOfHand": 5,
+    "Stealth": 2,
+    "Survival": 4,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [],
+    "Friends": [
+      {
+        "Friend": "super grilsne"
+      },
+      {
+        "Friend": "superman"
+      },
+      {
+        "Friend": "jacobhelten"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "lex luther"
+      }
+    ],
+    "ModifiersCombined": 12,
+    "Gender": 1,
+    "Type": 0,
+    "Age": 18,
+    "ImagePath": "supergirl-638340174138077606.jpg"
   }
 ]
