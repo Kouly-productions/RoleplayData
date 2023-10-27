@@ -621,5 +621,74 @@
     "Type": 0,
     "Age": 14,
     "ImagePath": "bumblebee-638340193152918052.jpg"
+  },
+  {
+    "Name": "green arrow",
+    "Country": "metropolis",
+    "Money": "1milion",
+    "Description": "",
+    "Level": 5,
+    "Health": 14,
+    "Armor": 11,
+    "Haste": 40,
+    "Strength": 20,
+    "Dexterity": 20,
+    "Constitution": 15,
+    "Intellect": 20,
+    "Wisdom": 18,
+    "Charisma": 24,
+    "Actrobatic": 5,
+    "AnimalTaiming": 2,
+    "Arcana": 2,
+    "Athletics": 4,
+    "Deception": 2,
+    "History": 4,
+    "Insight": 3,
+    "Intimidation": 0,
+    "Investigation": 5,
+    "Medicine": 1,
+    "Nature": 4,
+    "Perception": 3,
+    "Performance": 5,
+    "Persuasion": 3,
+    "SleightOfHand": 2,
+    "Stealth": 3,
+    "Survival": 3,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "verdens mester til bue og pil"
+      },
+      {
+        "Skill": "mester til pararere "
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "zee"
+      },
+      {
+        "Friend": "jacobhelten"
+      },
+      {
+        "Friend": "super hero boys"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "mortimor"
+      }
+    ],
+    "ModifiersCombined": 28,
+    "Gender": 0,
+    "Type": 0,
+    "Age": 20,
+    "ImagePath": "green arrow-638340202913843156.jpg"
   }
 ]
