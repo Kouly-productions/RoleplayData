@@ -172,5 +172,74 @@
     "Type": 0,
     "Age": 18,
     "ImagePath": "zee.jpg"
+  },
+  {
+    "Name": "Freddy",
+    "Country": "Fnaf landet",
+    "Money": "100 tusind",
+    "Description": "Freddy er meget kreativ til at finde på noget at lave. Han elsker at have det sjovt og er glade for alle som ikke prøver at sige han er forkert",
+    "Level": 2,
+    "Health": 60,
+    "Armor": 14,
+    "Haste": 15,
+    "Strength": 17,
+    "Dexterity": 6,
+    "Constitution": 13,
+    "Intellect": 20,
+    "Wisdom": 9,
+    "Charisma": 18,
+    "Actrobatic": 0,
+    "AnimalTaiming": 0,
+    "Arcana": 0,
+    "Athletics": 0,
+    "Deception": 2,
+    "History": 2,
+    "Insight": 1,
+    "Intimidation": 4,
+    "Investigation": 1,
+    "Medicine": 0,
+    "Nature": 0,
+    "Perception": 1,
+    "Performance": 4,
+    "Persuasion": 1,
+    "SleightOfHand": 0,
+    "Stealth": 0,
+    "Survival": 1,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "Kreativ"
+      },
+      {
+        "Skill": "God til regninger"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "Golden Freddy"
+      },
+      {
+        "Friend": "Foxy"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "Bonnie"
+      },
+      {
+        "Enemy": "Chica"
+      }
+    ],
+    "ModifiersCombined": 10,
+    "Gender": 0,
+    "Type": 1,
+    "Age": 9,
+    "ImagePath": "Freddy1.jpg"
   }
 ]
