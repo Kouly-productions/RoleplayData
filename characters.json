@@ -9,10 +9,10 @@
     "Armor": 20,
     "Haste": 110,
     "Strength": 30,
-    "Dexterity": 27,
-    "Constitution": 29,
+    "Dexterity": 30,
+    "Constitution": 30,
     "Intellect": 30,
-    "Wisdom": 8,
+    "Wisdom": 20,
     "Charisma": 3,
     "Actrobatic": 3,
     "AnimalTaiming": 0,
@@ -74,7 +74,7 @@
         "Enemy": "ragnaros"
       }
     ],
-    "ModifiersCombined": 32,
+    "ModifiersCombined": 41,
     "Gender": 0,
     "Type": 0,
     "Age": 18,
@@ -872,5 +872,65 @@
     "Type": 0,
     "Age": 20,
     "ImagePath": "hal jordan-638340216303647899.jpg"
+  },
+  {
+    "Name": "jessica",
+    "Country": "metropolis",
+    "Money": "50,000",
+    "Description": "",
+    "Level": 5,
+    "Health": 80,
+    "Armor": 14,
+    "Haste": 60,
+    "Strength": 24,
+    "Dexterity": 15,
+    "Constitution": 15,
+    "Intellect": 15,
+    "Wisdom": 15,
+    "Charisma": 13,
+    "Actrobatic": 3,
+    "AnimalTaiming": 3,
+    "Arcana": 3,
+    "Athletics": 3,
+    "Deception": 0,
+    "History": 2,
+    "Insight": 2,
+    "Intimidation": 0,
+    "Investigation": 3,
+    "Medicine": 2,
+    "Nature": 3,
+    "Perception": 2,
+    "Performance": 2,
+    "Persuasion": 1,
+    "SleightOfHand": 2,
+    "Stealth": 1,
+    "Survival": 4,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "god til at passe på dyr"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "super girlsne"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "den røde lygte"
+      }
+    ],
+    "ModifiersCombined": 16,
+    "Gender": 1,
+    "Type": 0,
+    "Age": 18,
+    "ImagePath": "jessica-638340223924331820.jpg"
   }
 ]
