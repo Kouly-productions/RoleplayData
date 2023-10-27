@@ -565,7 +565,7 @@
     "Health": 10,
     "Armor": 10,
     "Haste": 50,
-    "Strength": 13,
+    "Strength": 10,
     "Dexterity": 20,
     "Constitution": 8,
     "Intellect": 8,
@@ -613,7 +613,7 @@
         "Enemy": "robin"
       }
     ],
-    "ModifiersCombined": 3,
+    "ModifiersCombined": 2,
     "Gender": 1,
     "Type": 0,
     "Age": 16,
@@ -942,7 +942,7 @@
     "Health": 150,
     "Armor": 10,
     "Haste": 30,
-    "Strength": 18,
+    "Strength": 10,
     "Dexterity": 15,
     "Constitution": 13,
     "Intellect": 25,
@@ -996,7 +996,7 @@
         "Enemy": "batman"
       }
     ],
-    "ModifiersCombined": 20,
+    "ModifiersCombined": 16,
     "Gender": 0,
     "Type": 0,
     "Age": 20,
@@ -1011,7 +1011,7 @@
     "Health": 80,
     "Armor": 10,
     "Haste": 30,
-    "Strength": 13,
+    "Strength": 10,
     "Dexterity": 20,
     "Constitution": 13,
     "Intellect": 7,
@@ -1051,7 +1051,7 @@
       }
     ],
     "Enemies": [],
-    "ModifiersCombined": 1,
+    "ModifiersCombined": 0,
     "Gender": 1,
     "Type": 0,
     "Age": 18,
@@ -1104,5 +1104,74 @@
     "Type": 5,
     "Age": 2450,
     "ImagePath": "Ragnaros-638340275778907840.jpg"
+  },
+  {
+    "Name": "batman",
+    "Country": "metropolis",
+    "Money": "5miliarter",
+    "Description": "",
+    "Level": 8,
+    "Health": 60,
+    "Armor": 16,
+    "Haste": 45,
+    "Strength": 18,
+    "Dexterity": 24,
+    "Constitution": 12,
+    "Intellect": 20,
+    "Wisdom": 15,
+    "Charisma": 10,
+    "Actrobatic": 5,
+    "AnimalTaiming": 5,
+    "Arcana": 0,
+    "Athletics": 3,
+    "Deception": 2,
+    "History": 3,
+    "Insight": 3,
+    "Intimidation": 4,
+    "Investigation": 4,
+    "Medicine": 2,
+    "Nature": 2,
+    "Perception": 3,
+    "Performance": 1,
+    "Persuasion": 3,
+    "SleightOfHand": 3,
+    "Stealth": 5,
+    "Survival": 4,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "meget god til at parere"
+      },
+      {
+        "Skill": "meget god til at spare penge"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "batgirl"
+      },
+      {
+        "Friend": "robin"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "jokeren"
+      },
+      {
+        "Enemy": "two face"
+      }
+    ],
+    "ModifiersCombined": 19,
+    "Gender": 0,
+    "Type": 0,
+    "Age": 30,
+    "ImagePath": "batman-638340280456579126.jpg"
   }
 ]
