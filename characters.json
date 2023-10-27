@@ -812,5 +812,65 @@
     "Type": 2,
     "Age": 421,
     "ImagePath": "Onyxia-638340213766025042.jpg"
+  },
+  {
+    "Name": "hal jordan",
+    "Country": "metropolis",
+    "Money": "70,000",
+    "Description": "",
+    "Level": 3,
+    "Health": 90,
+    "Armor": 14,
+    "Haste": 60,
+    "Strength": 24,
+    "Dexterity": 15,
+    "Constitution": 11,
+    "Intellect": 5,
+    "Wisdom": 6,
+    "Charisma": 13,
+    "Actrobatic": 3,
+    "AnimalTaiming": 2,
+    "Arcana": 2,
+    "Athletics": 5,
+    "Deception": 3,
+    "History": 1,
+    "Insight": 1,
+    "Intimidation": 0,
+    "Investigation": 1,
+    "Medicine": 1,
+    "Nature": 2,
+    "Perception": 1,
+    "Performance": 2,
+    "Persuasion": 3,
+    "SleightOfHand": 4,
+    "Stealth": 1,
+    "Survival": 4,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "mester til foldbold"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "super hero boys"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "star sapphire"
+      }
+    ],
+    "ModifiersCombined": 5,
+    "Gender": 0,
+    "Type": 0,
+    "Age": 20,
+    "ImagePath": "hal jordan-638340216303647899.jpg"
   }
 ]
