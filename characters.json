@@ -13,7 +13,7 @@
     "Constitution": 30,
     "Intellect": 30,
     "Wisdom": 20,
-    "Charisma": 3,
+    "Charisma": 8,
     "Actrobatic": 3,
     "AnimalTaiming": 0,
     "Arcana": 4,
@@ -74,7 +74,7 @@
         "Enemy": "ragnaros"
       }
     ],
-    "ModifiersCombined": 41,
+    "ModifiersCombined": 44,
     "Gender": 0,
     "Type": 0,
     "Age": 18,
@@ -971,7 +971,7 @@
     "SavingIntellect": 0,
     "SavingWisdom": 0,
     "SavingCharisma": 0,
-    "LoverId": null,
+    "LoverId": "harleyquin",
     "Skills": [
       {
         "Skill": "mester forbryder"
@@ -1001,5 +1001,60 @@
     "Type": 0,
     "Age": 20,
     "ImagePath": "jokeren-638340257479578176.jpg"
+  },
+  {
+    "Name": "harleyquin",
+    "Country": "metropolis",
+    "Money": "50,000",
+    "Description": "",
+    "Level": 3,
+    "Health": 80,
+    "Armor": 10,
+    "Haste": 30,
+    "Strength": 13,
+    "Dexterity": 20,
+    "Constitution": 13,
+    "Intellect": 7,
+    "Wisdom": 8,
+    "Charisma": 5,
+    "Actrobatic": 2,
+    "AnimalTaiming": 1,
+    "Arcana": 0,
+    "Athletics": 1,
+    "Deception": 3,
+    "History": 1,
+    "Insight": 1,
+    "Intimidation": 5,
+    "Investigation": 1,
+    "Medicine": 1,
+    "Nature": 1,
+    "Perception": 1,
+    "Performance": 3,
+    "Persuasion": 2,
+    "SleightOfHand": 2,
+    "Stealth": 3,
+    "Survival": 2,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": "jokeren",
+    "Skills": [],
+    "Friends": [
+      {
+        "Friend": "jokeren"
+      },
+      {
+        "Friend": "batgirl"
+      }
+    ],
+    "Enemies": [],
+    "ModifiersCombined": 1,
+    "Gender": 1,
+    "Type": 0,
+    "Age": 18,
+    "ImagePath": "harley queen-638340264370936262.jpg"
   }
 ]
