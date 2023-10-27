@@ -932,5 +932,74 @@
     "Type": 0,
     "Age": 18,
     "ImagePath": "jessica-638340223924331820.jpg"
+  },
+  {
+    "Name": "jokeren",
+    "Country": "metropolis",
+    "Money": "500,000",
+    "Description": "",
+    "Level": 8,
+    "Health": 150,
+    "Armor": 10,
+    "Haste": 30,
+    "Strength": 18,
+    "Dexterity": 15,
+    "Constitution": 13,
+    "Intellect": 25,
+    "Wisdom": 18,
+    "Charisma": 15,
+    "Actrobatic": 2,
+    "AnimalTaiming": 0,
+    "Arcana": 1,
+    "Athletics": 1,
+    "Deception": 5,
+    "History": 2,
+    "Insight": 2,
+    "Intimidation": 5,
+    "Investigation": 4,
+    "Medicine": 1,
+    "Nature": 1,
+    "Perception": 3,
+    "Performance": 1,
+    "Persuasion": 3,
+    "SleightOfHand": 3,
+    "Stealth": 3,
+    "Survival": 3,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "mester forbryder"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "harley quin"
+      },
+      {
+        "Friend": "mad hatter"
+      },
+      {
+        "Friend": "two face"
+      },
+      {
+        "Friend": "grundy"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "batman"
+      }
+    ],
+    "ModifiersCombined": 20,
+    "Gender": 0,
+    "Type": 0,
+    "Age": 20,
+    "ImagePath": "jokeren-638340257479578176.jpg"
   }
 ]
