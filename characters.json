@@ -241,5 +241,68 @@
     "Type": 1,
     "Age": 9,
     "ImagePath": "Freddy1.jpg"
+  },
+  {
+    "Name": "superman",
+    "Country": "metropolis",
+    "Money": "400,000",
+    "Description": "hans svaghed er kryptonit",
+    "Level": 7,
+    "Health": 240,
+    "Armor": 18,
+    "Haste": 110,
+    "Strength": 30,
+    "Dexterity": 10,
+    "Constitution": 20,
+    "Intellect": 9,
+    "Wisdom": 8,
+    "Charisma": 25,
+    "Actrobatic": 6,
+    "AnimalTaiming": 3,
+    "Arcana": 1,
+    "Athletics": 6,
+    "Deception": 0,
+    "History": 2,
+    "Insight": 2,
+    "Intimidation": 1,
+    "Investigation": 3,
+    "Medicine": 1,
+    "Nature": 2,
+    "Perception": 6,
+    "Performance": 0,
+    "Persuasion": 1,
+    "SleightOfHand": 5,
+    "Stealth": 3,
+    "Survival": 5,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "dygtig kæmper"
+      },
+      {
+        "Skill": "verdens mester til at ungå at føre død"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "alle i metropolis"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "lex luther"
+      }
+    ],
+    "ModifiersCombined": 20,
+    "Gender": 0,
+    "Type": 0,
+    "Age": 20,
+    "ImagePath": "superman-638340158989339785.jpg"
   }
 ]
