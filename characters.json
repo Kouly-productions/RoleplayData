@@ -555,5 +555,71 @@
     "Type": 0,
     "Age": 16,
     "ImagePath": "batgirl-638340182945397309.jpg"
+  },
+  {
+    "Name": "bumble bee",
+    "Country": "metropolis",
+    "Money": "10,000",
+    "Description": "meget klog",
+    "Level": 2,
+    "Health": 20,
+    "Armor": 14,
+    "Haste": 70,
+    "Strength": 13,
+    "Dexterity": 27,
+    "Constitution": 8,
+    "Intellect": 20,
+    "Wisdom": 23,
+    "Charisma": 10,
+    "Actrobatic": 5,
+    "AnimalTaiming": 2,
+    "Arcana": 0,
+    "Athletics": 0,
+    "Deception": 0,
+    "History": 5,
+    "Insight": 1,
+    "Intimidation": 0,
+    "Investigation": 4,
+    "Medicine": 2,
+    "Nature": 3,
+    "Perception": 3,
+    "Performance": 2,
+    "Persuasion": 2,
+    "SleightOfHand": 2,
+    "Stealth": 6,
+    "Survival": 4,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "alchemist"
+      },
+      {
+        "Skill": "mester bygger"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "super girlsne"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "gigangta"
+      },
+      {
+        "Enemy": "strømpigen"
+      }
+    ],
+    "ModifiersCombined": 19,
+    "Gender": 1,
+    "Type": 0,
+    "Age": 14,
+    "ImagePath": "bumblebee-638340193152918052.jpg"
   }
 ]
