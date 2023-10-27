@@ -492,5 +492,68 @@
     "Type": 0,
     "Age": 18,
     "ImagePath": "supergirl-638340174138077606.jpg"
+  },
+  {
+    "Name": "batgirl",
+    "Country": "metropolis",
+    "Money": "10,000",
+    "Description": "",
+    "Level": 2,
+    "Health": 10,
+    "Armor": 10,
+    "Haste": 50,
+    "Strength": 13,
+    "Dexterity": 20,
+    "Constitution": 8,
+    "Intellect": 8,
+    "Wisdom": 8,
+    "Charisma": 10,
+    "Actrobatic": 5,
+    "AnimalTaiming": 6,
+    "Arcana": 0,
+    "Athletics": 3,
+    "Deception": 1,
+    "History": 3,
+    "Insight": 2,
+    "Intimidation": 1,
+    "Investigation": 6,
+    "Medicine": 1,
+    "Nature": 1,
+    "Perception": 3,
+    "Performance": 2,
+    "Persuasion": 1,
+    "SleightOfHand": 3,
+    "Stealth": 5,
+    "Survival": 4,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "god til at parere"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "super girlsne"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "slade"
+      },
+      {
+        "Enemy": "robin"
+      }
+    ],
+    "ModifiersCombined": 3,
+    "Gender": 1,
+    "Type": 0,
+    "Age": 16,
+    "ImagePath": "batgirl-638340182945397309.jpg"
   }
 ]
