@@ -1661,5 +1661,790 @@
     "Type": 0,
     "Age": 20,
     "ImagePath": "77ba55a656c321d3e3e240b4a2f432a9-638341915895812943.jpg"
+  },
+  {
+    "Name": "slade",
+    "Country": "metropolis",
+    "Money": "1bilion",
+    "Description": "",
+    "Level": 6,
+    "Health": 10,
+    "Armor": 10,
+    "Haste": 60,
+    "Strength": 11,
+    "Dexterity": 18,
+    "Constitution": 13,
+    "Intellect": 11,
+    "Wisdom": 15,
+    "Charisma": 8,
+    "Actrobatic": 3,
+    "AnimalTaiming": 1,
+    "Arcana": 0,
+    "Athletics": 2,
+    "Deception": 1,
+    "History": 2,
+    "Insight": 2,
+    "Intimidation": 5,
+    "Investigation": 5,
+    "Medicine": 1,
+    "Nature": 2,
+    "Perception": 2,
+    "Performance": 0,
+    "Persuasion": 2,
+    "SleightOfHand": 3,
+    "Stealth": 6,
+    "Survival": 2,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "mester til at snige dræbe"
+      }
+    ],
+    "Friends": [],
+    "Enemies": [
+      {
+        "Enemy": "batgirl"
+      },
+      {
+        "Enemy": "robin"
+      }
+    ],
+    "ModifiersCombined": 6,
+    "Gender": 0,
+    "Type": 0,
+    "Age": 50,
+    "ImagePath": "slade-638341936012739485.jpg"
+  },
+  {
+    "Name": "scarecrow",
+    "Country": "metropolis",
+    "Money": "20,000",
+    "Description": "",
+    "Level": 5,
+    "Health": 10,
+    "Armor": 10,
+    "Haste": 30,
+    "Strength": 11,
+    "Dexterity": 13,
+    "Constitution": 15,
+    "Intellect": 10,
+    "Wisdom": 8,
+    "Charisma": 6,
+    "Actrobatic": 3,
+    "AnimalTaiming": 0,
+    "Arcana": 2,
+    "Athletics": 1,
+    "Deception": 3,
+    "History": 2,
+    "Insight": 2,
+    "Intimidation": 6,
+    "Investigation": 2,
+    "Medicine": 1,
+    "Nature": 2,
+    "Perception": 2,
+    "Performance": 0,
+    "Persuasion": 2,
+    "SleightOfHand": 1,
+    "Stealth": 2,
+    "Survival": 2,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "verdens mester skrammer"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "jokeren"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "batman"
+      }
+    ],
+    "ModifiersCombined": 0,
+    "Gender": 0,
+    "Type": 0,
+    "Age": 24,
+    "ImagePath": "scarecrow-638341939453353901.jpg"
+  },
+  {
+    "Name": "strømpigen",
+    "Country": "metropolis",
+    "Money": "20,000",
+    "Description": "",
+    "Level": 5,
+    "Health": 50,
+    "Armor": 10,
+    "Haste": 60,
+    "Strength": 9,
+    "Dexterity": 10,
+    "Constitution": 15,
+    "Intellect": 16,
+    "Wisdom": 9,
+    "Charisma": 10,
+    "Actrobatic": 3,
+    "AnimalTaiming": 0,
+    "Arcana": 2,
+    "Athletics": 2,
+    "Deception": 2,
+    "History": 0,
+    "Insight": 1,
+    "Intimidation": 3,
+    "Investigation": 1,
+    "Medicine": 1,
+    "Nature": 1,
+    "Perception": 1,
+    "Performance": 3,
+    "Persuasion": 2,
+    "SleightOfHand": 1,
+    "Stealth": 1,
+    "Survival": 2,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "mester til strøm magi"
+      }
+    ],
+    "Friends": [],
+    "Enemies": [],
+    "ModifiersCombined": 3,
+    "Gender": 1,
+    "Type": 0,
+    "Age": 18,
+    "ImagePath": "strømpigen-638341942561837398.jpg"
+  },
+  {
+    "Name": "pingvin manden",
+    "Country": "metropolis",
+    "Money": "700,00",
+    "Description": "",
+    "Level": 6,
+    "Health": 12,
+    "Armor": 10,
+    "Haste": 30,
+    "Strength": 5,
+    "Dexterity": 13,
+    "Constitution": 8,
+    "Intellect": 15,
+    "Wisdom": 11,
+    "Charisma": 10,
+    "Actrobatic": 1,
+    "AnimalTaiming": 2,
+    "Arcana": 0,
+    "Athletics": 0,
+    "Deception": 4,
+    "History": 2,
+    "Insight": 2,
+    "Intimidation": 2,
+    "Investigation": 2,
+    "Medicine": 1,
+    "Nature": 2,
+    "Perception": 1,
+    "Performance": 2,
+    "Persuasion": 3,
+    "SleightOfHand": 3,
+    "Stealth": 2,
+    "Survival": 2,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "god til at snyde andre"
+      },
+      {
+        "Skill": "god til penge"
+      }
+    ],
+    "Friends": [],
+    "Enemies": [
+      {
+        "Enemy": "batman"
+      },
+      {
+        "Enemy": "batgirl"
+      }
+    ],
+    "ModifiersCombined": -1,
+    "Gender": 0,
+    "Type": 0,
+    "Age": 30,
+    "ImagePath": "pingvin manden-638341945632779549.jpg"
+  },
+  {
+    "Name": "riddleren",
+    "Country": "metropolis",
+    "Money": "200,00",
+    "Description": "",
+    "Level": 5,
+    "Health": 10,
+    "Armor": 10,
+    "Haste": 30,
+    "Strength": 9,
+    "Dexterity": 8,
+    "Constitution": 8,
+    "Intellect": 27,
+    "Wisdom": 10,
+    "Charisma": 15,
+    "Actrobatic": 1,
+    "AnimalTaiming": 1,
+    "Arcana": 1,
+    "Athletics": 1,
+    "Deception": 5,
+    "History": 5,
+    "Insight": 6,
+    "Intimidation": 1,
+    "Investigation": 3,
+    "Medicine": 2,
+    "Nature": 2,
+    "Perception": 2,
+    "Performance": 3,
+    "Persuasion": 4,
+    "SleightOfHand": 3,
+    "Stealth": 3,
+    "Survival": 3,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "mester til gåder"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "two face"
+      }
+    ],
+    "Enemies": [],
+    "ModifiersCombined": 7,
+    "Gender": 0,
+    "Type": 0,
+    "Age": 20,
+    "ImagePath": "riddleren-638341948697591996.jpg"
+  },
+  {
+    "Name": "two face",
+    "Country": "metropolis",
+    "Money": "300,000",
+    "Description": "",
+    "Level": 5,
+    "Health": 14,
+    "Armor": 10,
+    "Haste": 30,
+    "Strength": 13,
+    "Dexterity": 9,
+    "Constitution": 9,
+    "Intellect": 6,
+    "Wisdom": 9,
+    "Charisma": 11,
+    "Actrobatic": 2,
+    "AnimalTaiming": 1,
+    "Arcana": 0,
+    "Athletics": 2,
+    "Deception": 3,
+    "History": 2,
+    "Insight": 2,
+    "Intimidation": 4,
+    "Investigation": 2,
+    "Medicine": 2,
+    "Nature": 1,
+    "Perception": 2,
+    "Performance": 0,
+    "Persuasion": 2,
+    "SleightOfHand": 2,
+    "Stealth": 1,
+    "Survival": 3,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "mester til mønter"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "riddleren"
+      },
+      {
+        "Friend": "jokeren"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "batman"
+      },
+      {
+        "Enemy": "robin"
+      }
+    ],
+    "ModifiersCombined": -4,
+    "Gender": 0,
+    "Type": 0,
+    "Age": 35,
+    "ImagePath": "two face-638341951922396653.jpg"
+  },
+  {
+    "Name": "mr.frezze",
+    "Country": "metropolis",
+    "Money": "200,000",
+    "Description": "",
+    "Level": 6,
+    "Health": 100,
+    "Armor": 18,
+    "Haste": 30,
+    "Strength": 20,
+    "Dexterity": 9,
+    "Constitution": 13,
+    "Intellect": 15,
+    "Wisdom": 20,
+    "Charisma": 10,
+    "Actrobatic": 2,
+    "AnimalTaiming": 1,
+    "Arcana": 2,
+    "Athletics": 5,
+    "Deception": 1,
+    "History": 2,
+    "Insight": 2,
+    "Intimidation": 2,
+    "Investigation": 2,
+    "Medicine": 6,
+    "Nature": 2,
+    "Perception": 1,
+    "Performance": 1,
+    "Persuasion": 1,
+    "SleightOfHand": 1,
+    "Stealth": 1,
+    "Survival": 5,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "mester til medicin"
+      }
+    ],
+    "Friends": [],
+    "Enemies": [],
+    "ModifiersCombined": 12,
+    "Gender": 0,
+    "Type": 0,
+    "Age": 39,
+    "ImagePath": "mr.frezze-638341955475584841.jpg"
+  },
+  {
+    "Name": "den bestøvlede kat",
+    "Country": "sandloranso",
+    "Money": "10,000",
+    "Description": "",
+    "Level": 6,
+    "Health": 100,
+    "Armor": 10,
+    "Haste": 60,
+    "Strength": 13,
+    "Dexterity": 20,
+    "Constitution": 15,
+    "Intellect": 20,
+    "Wisdom": 24,
+    "Charisma": 24,
+    "Actrobatic": 3,
+    "AnimalTaiming": 2,
+    "Arcana": 2,
+    "Athletics": 3,
+    "Deception": 1,
+    "History": 3,
+    "Insight": 3,
+    "Intimidation": 2,
+    "Investigation": 4,
+    "Medicine": 2,
+    "Nature": 3,
+    "Perception": 3,
+    "Performance": 3,
+    "Persuasion": 4,
+    "SleightOfHand": 5,
+    "Stealth": 6,
+    "Survival": 4,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [],
+    "Friends": [
+      {
+        "Friend": "dulcinea"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "elmoco"
+      }
+    ],
+    "ModifiersCombined": 27,
+    "Gender": 0,
+    "Type": 5,
+    "Age": 18,
+    "ImagePath": "den bestøvlede kat-638341958431544842.jpg"
+  },
+  {
+    "Name": "blod ulven",
+    "Country": "sandloranso",
+    "Money": "0",
+    "Description": "",
+    "Level": 18,
+    "Health": 200,
+    "Armor": 18,
+    "Haste": 60,
+    "Strength": 30,
+    "Dexterity": 13,
+    "Constitution": 30,
+    "Intellect": 23,
+    "Wisdom": 5,
+    "Charisma": 1,
+    "Actrobatic": 3,
+    "AnimalTaiming": 2,
+    "Arcana": 5,
+    "Athletics": 6,
+    "Deception": 1,
+    "History": 3,
+    "Insight": 4,
+    "Intimidation": 6,
+    "Investigation": 1,
+    "Medicine": 0,
+    "Nature": 1,
+    "Perception": 2,
+    "Performance": 0,
+    "Persuasion": 1,
+    "SleightOfHand": 1,
+    "Stealth": 1,
+    "Survival": 6,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [],
+    "Friends": [],
+    "Enemies": [
+      {
+        "Enemy": "sino"
+      },
+      {
+        "Enemy": "dulcinea"
+      },
+      {
+        "Enemy": "blod ulven"
+      },
+      {
+        "Enemy": "heretroinden"
+      }
+    ],
+    "ModifiersCombined": 19,
+    "Gender": 0,
+    "Type": 5,
+    "Age": 1000,
+    "ImagePath": "blod ulven-638341967803249220.jpg"
+  },
+  {
+    "Name": "mordekaiser",
+    "Country": "shadowland",
+    "Money": "10,000",
+    "Description": "",
+    "Level": 15,
+    "Health": 200,
+    "Armor": 20,
+    "Haste": 20,
+    "Strength": 30,
+    "Dexterity": 7,
+    "Constitution": 28,
+    "Intellect": 24,
+    "Wisdom": 10,
+    "Charisma": 4,
+    "Actrobatic": 2,
+    "AnimalTaiming": 0,
+    "Arcana": 5,
+    "Athletics": 6,
+    "Deception": 1,
+    "History": 6,
+    "Insight": 1,
+    "Intimidation": 6,
+    "Investigation": 2,
+    "Medicine": 0,
+    "Nature": 0,
+    "Perception": 0,
+    "Performance": 0,
+    "Persuasion": 1,
+    "SleightOfHand": 2,
+    "Stealth": 0,
+    "Survival": 6,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [],
+    "Friends": [],
+    "Enemies": [
+      {
+        "Enemy": "morgana"
+      },
+      {
+        "Enemy": "leblanc"
+      }
+    ],
+    "ModifiersCombined": 21,
+    "Gender": 0,
+    "Type": 5,
+    "Age": 200,
+    "ImagePath": "mordekaiser-638341971613049957.jpg"
+  },
+  {
+    "Name": "mommacase",
+    "Country": "sanfransioko",
+    "Money": "1milion",
+    "Description": "",
+    "Level": 5,
+    "Health": 14,
+    "Armor": 10,
+    "Haste": 70,
+    "Strength": 13,
+    "Dexterity": 20,
+    "Constitution": 10,
+    "Intellect": 13,
+    "Wisdom": 9,
+    "Charisma": 7,
+    "Actrobatic": 4,
+    "AnimalTaiming": 1,
+    "Arcana": 1,
+    "Athletics": 3,
+    "Deception": 4,
+    "History": 3,
+    "Insight": 3,
+    "Intimidation": 3,
+    "Investigation": 4,
+    "Medicine": 2,
+    "Nature": 2,
+    "Perception": 3,
+    "Performance": 1,
+    "Persuasion": 3,
+    "SleightOfHand": 5,
+    "Stealth": 6,
+    "Survival": 4,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "mester til duelist"
+      },
+      {
+        "Skill": "mester til at snige sig"
+      },
+      {
+        "Skill": "mester til at lave mad"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "hiro"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "yamma"
+      },
+      {
+        "Enemy": "politi chef cruz"
+      }
+    ],
+    "ModifiersCombined": 4,
+    "Gender": 1,
+    "Type": 0,
+    "Age": 24,
+    "ImagePath": "mommacase-638341975146479600.jpg"
+  },
+  {
+    "Name": "slimning",
+    "Country": "sanfasioko",
+    "Money": "20,000",
+    "Description": "",
+    "Level": 2,
+    "Health": 180,
+    "Armor": 18,
+    "Haste": 50,
+    "Strength": 24,
+    "Dexterity": 5,
+    "Constitution": 25,
+    "Intellect": 5,
+    "Wisdom": 10,
+    "Charisma": 22,
+    "Actrobatic": 2,
+    "AnimalTaiming": 1,
+    "Arcana": 1,
+    "Athletics": 3,
+    "Deception": 1,
+    "History": 1,
+    "Insight": 1,
+    "Intimidation": 2,
+    "Investigation": 3,
+    "Medicine": 1,
+    "Nature": 2,
+    "Perception": 2,
+    "Performance": 2,
+    "Persuasion": 1,
+    "SleightOfHand": 2,
+    "Stealth": 2,
+    "Survival": 6,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [],
+    "Friends": [
+      {
+        "Friend": "sanfasioko"
+      },
+      {
+        "Friend": "darthjacob"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "mommacase"
+      }
+    ],
+    "ModifiersCombined": 14,
+    "Gender": 0,
+    "Type": 5,
+    "Age": 29,
+    "ImagePath": "slimning-638341977180418080.jpg"
+  },
+  {
+    "Name": "fred",
+    "Country": "sanfasioko",
+    "Money": "100miliader",
+    "Description": "",
+    "Level": 3,
+    "Health": 35,
+    "Armor": 12,
+    "Haste": 50,
+    "Strength": 7,
+    "Dexterity": 7,
+    "Constitution": 9,
+    "Intellect": 6,
+    "Wisdom": 9,
+    "Charisma": 9,
+    "Actrobatic": 1,
+    "AnimalTaiming": 1,
+    "Arcana": 2,
+    "Athletics": 3,
+    "Deception": 0,
+    "History": 4,
+    "Insight": 1,
+    "Intimidation": 1,
+    "Investigation": 2,
+    "Medicine": 1,
+    "Nature": 3,
+    "Perception": 3,
+    "Performance": 2,
+    "Persuasion": 1,
+    "SleightOfHand": 2,
+    "Stealth": 2,
+    "Survival": 1,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "god til at forstå tegneserier"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "hiro"
+      },
+      {
+        "Friend": "honeylemon"
+      },
+      {
+        "Friend": "gogo"
+      },
+      {
+        "Friend": "baymax"
+      },
+      {
+        "Friend": "minimax"
+      },
+      {
+        "Friend": "slimning"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "politichef cruz"
+      },
+      {
+        "Enemy": "baronfor damper"
+      }
+    ],
+    "ModifiersCombined": -9,
+    "Gender": 0,
+    "Type": 0,
+    "Age": 16,
+    "ImagePath": "fred-638341980338985510.jpg"
   }
 ]
