@@ -1348,5 +1348,80 @@
     "Type": 1,
     "Age": 12,
     "ImagePath": "springtrap-638341890287654523.jpg"
+  },
+  {
+    "Name": "shadow freddy",
+    "Country": "fnaf landet",
+    "Money": "50,000",
+    "Description": "",
+    "Level": 6,
+    "Health": 120,
+    "Armor": 17,
+    "Haste": 50,
+    "Strength": 23,
+    "Dexterity": 13,
+    "Constitution": 20,
+    "Intellect": 21,
+    "Wisdom": 15,
+    "Charisma": 4,
+    "Actrobatic": 4,
+    "AnimalTaiming": 0,
+    "Arcana": 3,
+    "Athletics": 4,
+    "Deception": 3,
+    "History": 3,
+    "Insight": 2,
+    "Intimidation": 6,
+    "Investigation": 4,
+    "Medicine": 0,
+    "Nature": 0,
+    "Perception": 2,
+    "Performance": 0,
+    "Persuasion": 0,
+    "SleightOfHand": 2,
+    "Stealth": 4,
+    "Survival": 4,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "god til at snige sig"
+      },
+      {
+        "Skill": "mestre til gamle magiske genstande"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "shadow bonnie"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "fnaf landet"
+      },
+      {
+        "Enemy": "gmod"
+      },
+      {
+        "Enemy": "darklands"
+      },
+      {
+        "Enemy": "metropolis"
+      },
+      {
+        "Enemy": "darthjacob"
+      }
+    ],
+    "ModifiersCombined": 16,
+    "Gender": 0,
+    "Type": 1,
+    "Age": 50,
+    "ImagePath": "shadow freddy-638341895263951368.jpg"
   }
 ]
