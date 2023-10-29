@@ -1289,5 +1289,64 @@
     "Type": 1,
     "Age": 9,
     "ImagePath": "goldenfreddy-638341883228149653.jpg"
+  },
+  {
+    "Name": "springtrap",
+    "Country": "fnaf landet",
+    "Money": "20,000",
+    "Description": "",
+    "Level": 4,
+    "Health": 90,
+    "Armor": 16,
+    "Haste": 40,
+    "Strength": 20,
+    "Dexterity": 15,
+    "Constitution": 15,
+    "Intellect": 20,
+    "Wisdom": 8,
+    "Charisma": 5,
+    "Actrobatic": 3,
+    "AnimalTaiming": 0,
+    "Arcana": 3,
+    "Athletics": 4,
+    "Deception": 4,
+    "History": 3,
+    "Insight": 2,
+    "Intimidation": 5,
+    "Investigation": 2,
+    "Medicine": 0,
+    "Nature": 0,
+    "Perception": 2,
+    "Performance": 0,
+    "Persuasion": 1,
+    "SleightOfHand": 2,
+    "Stealth": 2,
+    "Survival": 1,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "mester til øske våben"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "golden freddy"
+      },
+      {
+        "Friend": "spring bonnie"
+      }
+    ],
+    "Enemies": [],
+    "ModifiersCombined": 10,
+    "Gender": 0,
+    "Type": 1,
+    "Age": 12,
+    "ImagePath": "springtrap-638341890287654523.jpg"
   }
 ]
