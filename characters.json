@@ -1228,5 +1228,66 @@
     "Type": 5,
     "Age": 120,
     "ImagePath": "wonder women-638340291664956671.jpg"
+  },
+  {
+    "Name": "golden freddy",
+    "Country": "fnaf landet",
+    "Money": "10,000",
+    "Description": "",
+    "Level": 3,
+    "Health": 80,
+    "Armor": 16,
+    "Haste": 40,
+    "Strength": 18,
+    "Dexterity": 6,
+    "Constitution": 14,
+    "Intellect": 13,
+    "Wisdom": 10,
+    "Charisma": 7,
+    "Actrobatic": 3,
+    "AnimalTaiming": 0,
+    "Arcana": 2,
+    "Athletics": 3,
+    "Deception": 1,
+    "History": 2,
+    "Insight": 1,
+    "Intimidation": 3,
+    "Investigation": 2,
+    "Medicine": 0,
+    "Nature": 0,
+    "Perception": 1,
+    "Performance": 0,
+    "Persuasion": 2,
+    "SleightOfHand": 2,
+    "Stealth": 2,
+    "Survival": 2,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [],
+    "Friends": [
+      {
+        "Friend": "freddy"
+      },
+      {
+        "Friend": "foxy"
+      },
+      {
+        "Friend": "puppet"
+      },
+      {
+        "Friend": "springtrap"
+      }
+    ],
+    "Enemies": [],
+    "ModifiersCombined": 3,
+    "Gender": 0,
+    "Type": 1,
+    "Age": 9,
+    "ImagePath": "goldenfreddy-638341883228149653.jpg"
   }
 ]
