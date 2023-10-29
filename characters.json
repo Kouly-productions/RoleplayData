@@ -851,7 +851,7 @@
     "SavingIntellect": 0,
     "SavingWisdom": 0,
     "SavingCharisma": 0,
-    "LoverId": null,
+    "LoverId": "star sapphire",
     "Skills": [
       {
         "Skill": "mester til foldbold"
@@ -1423,5 +1423,243 @@
     "Type": 1,
     "Age": 50,
     "ImagePath": "shadow freddy-638341895263951368.jpg"
+  },
+  {
+    "Name": "catwomen",
+    "Country": "metropolis",
+    "Money": "107,000",
+    "Description": "",
+    "Level": 4,
+    "Health": 20,
+    "Armor": 10,
+    "Haste": 55,
+    "Strength": 10,
+    "Dexterity": 20,
+    "Constitution": 8,
+    "Intellect": 23,
+    "Wisdom": 9,
+    "Charisma": 10,
+    "Actrobatic": 3,
+    "AnimalTaiming": 3,
+    "Arcana": 2,
+    "Athletics": 2,
+    "Deception": 3,
+    "History": 2,
+    "Insight": 1,
+    "Intimidation": 2,
+    "Investigation": 5,
+    "Medicine": 1,
+    "Nature": 2,
+    "Perception": 2,
+    "Performance": 1,
+    "Persuasion": 2,
+    "SleightOfHand": 3,
+    "Stealth": 6,
+    "Survival": 3,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "mester til at stjæle uden at blive opdaget"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "gikganta"
+      },
+      {
+        "Friend": "kattene"
+      },
+      {
+        "Friend": "strømpigen"
+      },
+      {
+        "Friend": "star sapphire"
+      }
+    ],
+    "Enemies": [],
+    "ModifiersCombined": 9,
+    "Gender": 1,
+    "Type": 0,
+    "Age": 18,
+    "ImagePath": "catwomen-638341902395648608.jpg"
+  },
+  {
+    "Name": "star sapphire",
+    "Country": "metropolis",
+    "Money": "23,000",
+    "Description": "",
+    "Level": 3,
+    "Health": 80,
+    "Armor": 10,
+    "Haste": 60,
+    "Strength": 24,
+    "Dexterity": 18,
+    "Constitution": 20,
+    "Intellect": 9,
+    "Wisdom": 8,
+    "Charisma": 9,
+    "Actrobatic": 3,
+    "AnimalTaiming": 1,
+    "Arcana": 2,
+    "Athletics": 4,
+    "Deception": 1,
+    "History": 1,
+    "Insight": 0,
+    "Intimidation": 3,
+    "Investigation": 1,
+    "Medicine": 0,
+    "Nature": 1,
+    "Perception": 2,
+    "Performance": 0,
+    "Persuasion": 1,
+    "SleightOfHand": 1,
+    "Stealth": 2,
+    "Survival": 2,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": "hal jordan",
+    "Skills": [],
+    "Friends": [],
+    "Enemies": [],
+    "ModifiersCombined": 13,
+    "Gender": 1,
+    "Type": 0,
+    "Age": 18,
+    "ImagePath": "8d2c13b936efa1f36e79ec6a184922d1-638341907050899654.jpg"
+  },
+  {
+    "Name": "fuseli",
+    "Country": "metropolis",
+    "Money": "0",
+    "Description": "",
+    "Level": 8,
+    "Health": 10,
+    "Armor": 10,
+    "Haste": 45,
+    "Strength": 1,
+    "Dexterity": 13,
+    "Constitution": 18,
+    "Intellect": 15,
+    "Wisdom": 10,
+    "Charisma": 4,
+    "Actrobatic": 3,
+    "AnimalTaiming": 1,
+    "Arcana": 4,
+    "Athletics": 2,
+    "Deception": 2,
+    "History": 3,
+    "Insight": 4,
+    "Intimidation": 6,
+    "Investigation": 4,
+    "Medicine": 0,
+    "Nature": 3,
+    "Perception": 3,
+    "Performance": 0,
+    "Persuasion": 0,
+    "SleightOfHand": 3,
+    "Stealth": 5,
+    "Survival": 3,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "verdens mester til at give marit"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "frygtskurken"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "zatanna"
+      }
+    ],
+    "ModifiersCombined": -1,
+    "Gender": 0,
+    "Type": 5,
+    "Age": 40,
+    "ImagePath": "EUK4RyuXQAAEUhf-638341911400777669.jpg"
+  },
+  {
+    "Name": "the flash",
+    "Country": "metropolis",
+    "Money": "110,000",
+    "Description": "",
+    "Level": 7,
+    "Health": 30,
+    "Armor": 10,
+    "Haste": 400,
+    "Strength": 25,
+    "Dexterity": 30,
+    "Constitution": 20,
+    "Intellect": 17,
+    "Wisdom": 17,
+    "Charisma": 20,
+    "Actrobatic": 6,
+    "AnimalTaiming": 2,
+    "Arcana": 1,
+    "Athletics": 3,
+    "Deception": 0,
+    "History": 1,
+    "Insight": 2,
+    "Intimidation": 0,
+    "Investigation": 2,
+    "Medicine": 2,
+    "Nature": 2,
+    "Perception": 4,
+    "Performance": 1,
+    "Persuasion": 3,
+    "SleightOfHand": 3,
+    "Stealth": 3,
+    "Survival": 4,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "verdens mester til at løbe"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "green arrow"
+      },
+      {
+        "Friend": "hal jordan"
+      },
+      {
+        "Friend": "barbera"
+      },
+      {
+        "Friend": "metropolis borgerne"
+      }
+    ],
+    "Enemies": [],
+    "ModifiersCombined": 33,
+    "Gender": 0,
+    "Type": 0,
+    "Age": 20,
+    "ImagePath": "77ba55a656c321d3e3e240b4a2f432a9-638341915895812943.jpg"
   }
 ]
