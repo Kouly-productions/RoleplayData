@@ -69,12 +69,13 @@
         "Enemy": "onyxia"
       }
     ],
+    "Abilities": [],
     "ModifiersCombined": 0,
     "Gender": 0,
     "Type": 0,
     "Power": 8,
     "Age": 18,
-    "ImagePath": "DarthJacobRedArmor.jpg"
+    "ImagePath": "darthjacob-638348921021411573.jpg"
   },
   {
     "Name": "zee zatara",
@@ -140,6 +141,7 @@
         "Enemy": "mortimor"
       }
     ],
+    "Abilities": [],
     "ModifiersCombined": 0,
     "Gender": 1,
     "Type": 0,
