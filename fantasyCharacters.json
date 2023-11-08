@@ -701,7 +701,7 @@
     "Abilities": [],
     "ModifiersCombined": 0,
     "Gender": 0,
-    "Type": 5,
+    "Type": 7,
     "Power": 0,
     "Age": 25,
     "ImagePath": "timon-638350649809612127.jpg"
@@ -766,7 +766,7 @@
     "Abilities": [],
     "ModifiersCombined": 0,
     "Gender": 0,
-    "Type": 5,
+    "Type": 7,
     "Power": 1,
     "Age": 40,
     "ImagePath": "pumbaa-638350650940675245.png"
@@ -828,7 +828,7 @@
     "Abilities": [],
     "ModifiersCombined": 0,
     "Gender": 0,
-    "Type": 5,
+    "Type": 6,
     "Power": 1,
     "Age": 40,
     "ImagePath": "fuseli-638350653884454623.jpg"
@@ -949,7 +949,7 @@
     "Abilities": [],
     "ModifiersCombined": 0,
     "Gender": 0,
-    "Type": 5,
+    "Type": 7,
     "Power": 2,
     "Age": 40,
     "ImagePath": "pingvin manden-638350664095391678.jpg"
@@ -1646,7 +1646,7 @@
     "Abilities": [],
     "ModifiersCombined": 0,
     "Gender": 1,
-    "Type": 0,
+    "Type": 5,
     "Power": 4,
     "Age": 16,
     "ImagePath": "starfire__teen_titans_go__by_juacoproductionsarts_dezjgbw-fullview-638350689155645346.jpg"
@@ -1835,7 +1835,7 @@
     "Abilities": [],
     "ModifiersCombined": 0,
     "Gender": 0,
-    "Type": 5,
+    "Type": 7,
     "Power": 4,
     "Age": 25,
     "ImagePath": "aguaman-638350693075812891.jpg"
@@ -1965,7 +1965,7 @@
     "Abilities": [],
     "ModifiersCombined": 0,
     "Gender": 1,
-    "Type": 5,
+    "Type": 8,
     "Power": 5,
     "Age": 120,
     "ImagePath": "wonder woman-638350696187446394.jpg"
@@ -2023,7 +2023,7 @@
     "Abilities": [],
     "ModifiersCombined": 0,
     "Gender": 0,
-    "Type": 5,
+    "Type": 4,
     "Power": 6,
     "Age": 100,
     "ImagePath": "gentlemen ghost-638350699363989672.jpg"
@@ -2074,7 +2074,7 @@
     "Abilities": [],
     "ModifiersCombined": 0,
     "Gender": 0,
-    "Type": 5,
+    "Type": 7,
     "Power": 0,
     "Age": 35,
     "ImagePath": "uli-638350703615408143.jpg"
@@ -2195,7 +2195,7 @@
     "Abilities": [],
     "ModifiersCombined": 0,
     "Gender": 0,
-    "Type": 5,
+    "Type": 7,
     "Power": 3,
     "Age": 20,
     "ImagePath": "puss in boots-638350704960975079.jpg"
@@ -2323,7 +2323,7 @@
     "Abilities": [],
     "ModifiersCombined": 0,
     "Gender": 0,
-    "Type": 5,
+    "Type": 8,
     "Power": 5,
     "Age": 70,
     "ImagePath": "grundy-638350707163176213.jpg"
