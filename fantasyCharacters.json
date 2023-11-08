@@ -148,5 +148,395 @@
     "Power": 8,
     "Age": 18,
     "ImagePath": "zee.jpg"
+  },
+  {
+    "Name": "superman",
+    "Country": "metropolis",
+    "Money": "80,000",
+    "Description": "jeg er ind dig super girl",
+    "CharacterHistory": "",
+    "Level": 8,
+    "Health": 0,
+    "Armor": 0,
+    "Haste": 0,
+    "Strength": 0,
+    "Dexterity": 0,
+    "Constitution": 0,
+    "Intellect": 0,
+    "Wisdom": 0,
+    "Charisma": 0,
+    "Actrobatic": 0,
+    "AnimalTaiming": 0,
+    "Arcana": 0,
+    "Athletics": 0,
+    "Deception": 0,
+    "History": 0,
+    "Insight": 0,
+    "Intimidation": 0,
+    "Investigation": 0,
+    "Medicine": 0,
+    "Nature": 0,
+    "Perception": 0,
+    "Performance": 0,
+    "Persuasion": 0,
+    "SleightOfHand": 0,
+    "Stealth": 0,
+    "Survival": 0,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "okay til duelist"
+      },
+      {
+        "Skill": "mester til retfærdighed"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "super girl"
+      },
+      {
+        "Friend": "metropolis"
+      },
+      {
+        "Friend": "jacobhelten"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "lex luther"
+      }
+    ],
+    "Abilities": [],
+    "ModifiersCombined": 0,
+    "Gender": 0,
+    "Type": 0,
+    "Power": 7,
+    "Age": 20,
+    "ImagePath": "superman-638350570175144223.jpg"
+  },
+  {
+    "Name": "supergirl",
+    "Country": "metropolis",
+    "Money": "20,000",
+    "Description": "hvor er jeg bare stærk",
+    "CharacterHistory": "",
+    "Level": 5,
+    "Health": 0,
+    "Armor": 0,
+    "Haste": 0,
+    "Strength": 0,
+    "Dexterity": 0,
+    "Constitution": 0,
+    "Intellect": 0,
+    "Wisdom": 0,
+    "Charisma": 0,
+    "Actrobatic": 0,
+    "AnimalTaiming": 0,
+    "Arcana": 0,
+    "Athletics": 0,
+    "Deception": 0,
+    "History": 0,
+    "Insight": 0,
+    "Intimidation": 0,
+    "Investigation": 0,
+    "Medicine": 0,
+    "Nature": 0,
+    "Perception": 0,
+    "Performance": 0,
+    "Persuasion": 0,
+    "SleightOfHand": 0,
+    "Stealth": 0,
+    "Survival": 0,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "god til væstling"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "super hero girlls"
+      },
+      {
+        "Friend": "jacobhelten"
+      },
+      {
+        "Friend": "superman"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "lexluther"
+      },
+      {
+        "Enemy": "catwoman"
+      }
+    ],
+    "Abilities": [],
+    "ModifiersCombined": 0,
+    "Gender": 1,
+    "Type": 0,
+    "Power": 4,
+    "Age": 18,
+    "ImagePath": "supergirl-638350575533085380.jpg"
+  },
+  {
+    "Name": "harley queen",
+    "Country": "metropolis",
+    "Money": "2000",
+    "Description": "alt er bare sjovt",
+    "CharacterHistory": "",
+    "Level": 3,
+    "Health": 0,
+    "Armor": 0,
+    "Haste": 0,
+    "Strength": 0,
+    "Dexterity": 0,
+    "Constitution": 0,
+    "Intellect": 0,
+    "Wisdom": 0,
+    "Charisma": 0,
+    "Actrobatic": 0,
+    "AnimalTaiming": 0,
+    "Arcana": 0,
+    "Athletics": 0,
+    "Deception": 0,
+    "History": 0,
+    "Insight": 0,
+    "Intimidation": 0,
+    "Investigation": 0,
+    "Medicine": 0,
+    "Nature": 0,
+    "Perception": 0,
+    "Performance": 0,
+    "Persuasion": 0,
+    "SleightOfHand": 0,
+    "Stealth": 0,
+    "Survival": 0,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "god til bumber"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "batgirl"
+      },
+      {
+        "Friend": "jokeren"
+      }
+    ],
+    "Enemies": [],
+    "Abilities": [],
+    "ModifiersCombined": 0,
+    "Gender": 1,
+    "Type": 0,
+    "Power": 3,
+    "Age": 16,
+    "ImagePath": "harley quen-638350619395422126.jpg"
+  },
+  {
+    "Name": "hal jordan",
+    "Country": "metropolis",
+    "Money": "10,000",
+    "Description": "jeg er mega sulten mand",
+    "CharacterHistory": "",
+    "Level": 3,
+    "Health": 0,
+    "Armor": 0,
+    "Haste": 0,
+    "Strength": 0,
+    "Dexterity": 0,
+    "Constitution": 0,
+    "Intellect": 0,
+    "Wisdom": 0,
+    "Charisma": 0,
+    "Actrobatic": 0,
+    "AnimalTaiming": 0,
+    "Arcana": 0,
+    "Athletics": 0,
+    "Deception": 0,
+    "History": 0,
+    "Insight": 0,
+    "Intimidation": 0,
+    "Investigation": 0,
+    "Medicine": 0,
+    "Nature": 0,
+    "Perception": 0,
+    "Performance": 0,
+    "Persuasion": 0,
+    "SleightOfHand": 0,
+    "Stealth": 0,
+    "Survival": 0,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "god til at spise"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "super hero boys"
+      },
+      {
+        "Friend": "super hero girls"
+      }
+    ],
+    "Enemies": [],
+    "Abilities": [],
+    "ModifiersCombined": 0,
+    "Gender": 0,
+    "Type": 0,
+    "Power": 3,
+    "Age": 20,
+    "ImagePath": "hal jordan-638350622524439162.jpg"
+  },
+  {
+    "Name": "jessica",
+    "Country": "metropolis",
+    "Money": "10,000",
+    "Description": "krappe yoghurt",
+    "CharacterHistory": "",
+    "Level": 3,
+    "Health": 0,
+    "Armor": 0,
+    "Haste": 0,
+    "Strength": 0,
+    "Dexterity": 0,
+    "Constitution": 0,
+    "Intellect": 0,
+    "Wisdom": 0,
+    "Charisma": 0,
+    "Actrobatic": 0,
+    "AnimalTaiming": 0,
+    "Arcana": 0,
+    "Athletics": 0,
+    "Deception": 0,
+    "History": 0,
+    "Insight": 0,
+    "Intimidation": 0,
+    "Investigation": 0,
+    "Medicine": 0,
+    "Nature": 0,
+    "Perception": 0,
+    "Performance": 0,
+    "Persuasion": 0,
+    "SleightOfHand": 0,
+    "Stealth": 0,
+    "Survival": 0,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "god til dyr"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "super hero girls"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "den røde lygte"
+      }
+    ],
+    "Abilities": [],
+    "ModifiersCombined": 0,
+    "Gender": 1,
+    "Type": 0,
+    "Power": 3,
+    "Age": 18,
+    "ImagePath": "jessica-638350626394099866.jpg"
+  },
+  {
+    "Name": "bumblebee",
+    "Country": "metropolis",
+    "Money": "2000",
+    "Description": "tag dig sammen",
+    "CharacterHistory": "",
+    "Level": 6,
+    "Health": 0,
+    "Armor": 0,
+    "Haste": 0,
+    "Strength": 0,
+    "Dexterity": 0,
+    "Constitution": 0,
+    "Intellect": 0,
+    "Wisdom": 0,
+    "Charisma": 0,
+    "Actrobatic": 0,
+    "AnimalTaiming": 0,
+    "Arcana": 0,
+    "Athletics": 0,
+    "Deception": 0,
+    "History": 0,
+    "Insight": 0,
+    "Intimidation": 0,
+    "Investigation": 0,
+    "Medicine": 0,
+    "Nature": 0,
+    "Perception": 0,
+    "Performance": 0,
+    "Persuasion": 0,
+    "SleightOfHand": 0,
+    "Stealth": 0,
+    "Survival": 0,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "mester til matematik"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "super hero girls"
+      }
+    ],
+    "Enemies": [],
+    "Abilities": [],
+    "ModifiersCombined": 0,
+    "Gender": 1,
+    "Type": 0,
+    "Power": 3,
+    "Age": 14,
+    "ImagePath": "bumblebee-638350628899683000.jpg"
   }
 ]
