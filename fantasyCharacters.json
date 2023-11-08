@@ -896,7 +896,7 @@
     "Name": "pingvin manden",
     "Country": "metropolis",
     "Money": "500,000",
-    "Description": "mem du kan bare kalde mig pingvinen",
+    "Description": "men du kan bare kalde mig pingvinen",
     "CharacterHistory": "",
     "Level": 5,
     "Health": 0,
@@ -2389,5 +2389,411 @@
     "Power": 7,
     "Age": 20,
     "ImagePath": "file-Dl2ymQiIFkFunN8S2PW97uJK-638350712355616357.jpg"
+  },
+  {
+    "Name": "Drakins",
+    "Country": "Ukendt",
+    "Money": "0",
+    "Description": "Uventede ting venter denne verden",
+    "CharacterHistory": "Drakins er en gammel drage, som har levet i 724 år. Han bor under jorden på en skjult Ø. Han kan spøge ild og ødelægge byer. Men ingen har set ham i mange år, og nogle tror, han er blevet en legende og at han slet ikke er en rigtig drage.",
+    "Level": 25,
+    "Health": 0,
+    "Armor": 0,
+    "Haste": 0,
+    "Strength": 0,
+    "Dexterity": 0,
+    "Constitution": 0,
+    "Intellect": 0,
+    "Wisdom": 0,
+    "Charisma": 0,
+    "Actrobatic": 0,
+    "AnimalTaiming": 0,
+    "Arcana": 0,
+    "Athletics": 0,
+    "Deception": 0,
+    "History": 0,
+    "Insight": 0,
+    "Intimidation": 0,
+    "Investigation": 0,
+    "Medicine": 0,
+    "Nature": 0,
+    "Perception": 0,
+    "Performance": 0,
+    "Persuasion": 0,
+    "SleightOfHand": 0,
+    "Stealth": 0,
+    "Survival": 0,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [],
+    "Friends": [],
+    "Enemies": [],
+    "Abilities": [],
+    "ModifiersCombined": 0,
+    "Gender": 0,
+    "Type": 2,
+    "Power": 8,
+    "Age": 724,
+    "ImagePath": "DALL·E 2023-11-08 19.08.55 - A grand dragon's head is framed for a game's boss encounter, with scales that have a lustrous black hue, overlaid with streaks of crimson. The dragon'-638350721151269034.png"
+  },
+  {
+    "Name": "Freddy",
+    "Country": "Fnaf landet",
+    "Money": "100.000",
+    "Description": "Gå nu væk Bonnie og Chica! Oh, så er der ham den værste. Darth Jacob ØHJ!",
+    "CharacterHistory": "",
+    "Level": 3,
+    "Health": 0,
+    "Armor": 0,
+    "Haste": 0,
+    "Strength": 0,
+    "Dexterity": 0,
+    "Constitution": 0,
+    "Intellect": 0,
+    "Wisdom": 0,
+    "Charisma": 0,
+    "Actrobatic": 0,
+    "AnimalTaiming": 0,
+    "Arcana": 0,
+    "Athletics": 0,
+    "Deception": 0,
+    "History": 0,
+    "Insight": 0,
+    "Intimidation": 0,
+    "Investigation": 0,
+    "Medicine": 0,
+    "Nature": 0,
+    "Perception": 0,
+    "Performance": 0,
+    "Persuasion": 0,
+    "SleightOfHand": 0,
+    "Stealth": 0,
+    "Survival": 0,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "Styre penge"
+      },
+      {
+        "Skill": "Kreativ"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "Foxy"
+      },
+      {
+        "Friend": "Golden Freddy"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "Bonnie"
+      },
+      {
+        "Enemy": "Chica"
+      },
+      {
+        "Enemy": "Jacob helten"
+      }
+    ],
+    "Abilities": [],
+    "ModifiersCombined": 0,
+    "Gender": 0,
+    "Type": 1,
+    "Power": 3,
+    "Age": 9,
+    "ImagePath": "Freddy-638350732730658897.jpg"
+  },
+  {
+    "Name": "Chica",
+    "Country": "Fnaf landet",
+    "Money": "10.000",
+    "Description": "Hvad med dig selv!?",
+    "CharacterHistory": "",
+    "Level": 2,
+    "Health": 0,
+    "Armor": 0,
+    "Haste": 0,
+    "Strength": 0,
+    "Dexterity": 0,
+    "Constitution": 0,
+    "Intellect": 0,
+    "Wisdom": 0,
+    "Charisma": 0,
+    "Actrobatic": 0,
+    "AnimalTaiming": 0,
+    "Arcana": 0,
+    "Athletics": 0,
+    "Deception": 0,
+    "History": 0,
+    "Insight": 0,
+    "Intimidation": 0,
+    "Investigation": 0,
+    "Medicine": 0,
+    "Nature": 0,
+    "Perception": 0,
+    "Performance": 0,
+    "Persuasion": 0,
+    "SleightOfHand": 0,
+    "Stealth": 0,
+    "Survival": 0,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "Lave mad"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "Bonnie"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "Freddy"
+      },
+      {
+        "Enemy": "Foxy"
+      },
+      {
+        "Enemy": "Darth Jacob"
+      }
+    ],
+    "Abilities": [],
+    "ModifiersCombined": 0,
+    "Gender": 1,
+    "Type": 1,
+    "Power": 2,
+    "Age": 9,
+    "ImagePath": "Chic-638350734249991209.jpg"
+  },
+  {
+    "Name": "Bonnie",
+    "Country": "Fnaf landet",
+    "Money": "5.000",
+    "Description": "Uhuhu, ja det er rigtigt",
+    "CharacterHistory": "",
+    "Level": 2,
+    "Health": 0,
+    "Armor": 0,
+    "Haste": 0,
+    "Strength": 0,
+    "Dexterity": 0,
+    "Constitution": 0,
+    "Intellect": 0,
+    "Wisdom": 0,
+    "Charisma": 0,
+    "Actrobatic": 0,
+    "AnimalTaiming": 0,
+    "Arcana": 0,
+    "Athletics": 0,
+    "Deception": 0,
+    "History": 0,
+    "Insight": 0,
+    "Intimidation": 0,
+    "Investigation": 0,
+    "Medicine": 0,
+    "Nature": 0,
+    "Perception": 0,
+    "Performance": 0,
+    "Persuasion": 0,
+    "SleightOfHand": 0,
+    "Stealth": 0,
+    "Survival": 0,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "Lave guitar lyde"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "Chica"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "Freddy"
+      },
+      {
+        "Enemy": "Foxy"
+      },
+      {
+        "Enemy": "Darth Jacob"
+      }
+    ],
+    "Abilities": [],
+    "ModifiersCombined": 0,
+    "Gender": 0,
+    "Type": 1,
+    "Power": 2,
+    "Age": 9,
+    "ImagePath": "Bonnie-638350735386286221.png"
+  },
+  {
+    "Name": "Foxy",
+    "Country": "Fnaf landet",
+    "Money": "25.000",
+    "Description": "Yarr, lad mig nu bare drikke min sodavand",
+    "CharacterHistory": "",
+    "Level": 3,
+    "Health": 0,
+    "Armor": 0,
+    "Haste": 0,
+    "Strength": 0,
+    "Dexterity": 0,
+    "Constitution": 0,
+    "Intellect": 0,
+    "Wisdom": 0,
+    "Charisma": 0,
+    "Actrobatic": 0,
+    "AnimalTaiming": 0,
+    "Arcana": 0,
+    "Athletics": 0,
+    "Deception": 0,
+    "History": 0,
+    "Insight": 0,
+    "Intimidation": 0,
+    "Investigation": 0,
+    "Medicine": 0,
+    "Nature": 0,
+    "Perception": 0,
+    "Performance": 0,
+    "Persuasion": 0,
+    "SleightOfHand": 0,
+    "Stealth": 0,
+    "Survival": 0,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "Hurtig til at løbe"
+      },
+      {
+        "Skill": "Hurtig til at drikke sodavand"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "Freddy"
+      },
+      {
+        "Friend": "Golden Freddy"
+      }
+    ],
+    "Enemies": [
+      {
+        "Enemy": "Bonnie"
+      },
+      {
+        "Enemy": "Chica"
+      },
+      {
+        "Enemy": "BB"
+      }
+    ],
+    "Abilities": [],
+    "ModifiersCombined": 0,
+    "Gender": 0,
+    "Type": 1,
+    "Power": 3,
+    "Age": 9,
+    "ImagePath": "Foxy-638350739333172772.jpg"
+  },
+  {
+    "Name": "Golden Freddy",
+    "Country": "Fnaf landet",
+    "Money": "0",
+    "Description": "Hvorfor er det kun mig og Freddy der har ret?",
+    "CharacterHistory": "",
+    "Level": 4,
+    "Health": 0,
+    "Armor": 0,
+    "Haste": 0,
+    "Strength": 0,
+    "Dexterity": 0,
+    "Constitution": 0,
+    "Intellect": 0,
+    "Wisdom": 0,
+    "Charisma": 0,
+    "Actrobatic": 0,
+    "AnimalTaiming": 0,
+    "Arcana": 0,
+    "Athletics": 0,
+    "Deception": 0,
+    "History": 0,
+    "Insight": 0,
+    "Intimidation": 0,
+    "Investigation": 0,
+    "Medicine": 0,
+    "Nature": 0,
+    "Perception": 0,
+    "Performance": 0,
+    "Persuasion": 0,
+    "SleightOfHand": 0,
+    "Stealth": 0,
+    "Survival": 0,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [],
+    "Friends": [
+      {
+        "Friend": "Freddy"
+      },
+      {
+        "Friend": "Foxy"
+      }
+    ],
+    "Enemies": [],
+    "Abilities": [
+      {
+        "Name": "Teleportering 1",
+        "Description": "Denne kraft, sørger for at du kan teleportere dig kun til de steder du kan se lige nu",
+        "AbilityLevelRequirement": 2,
+        "imagePath": "DALL·E 2023-11-08 16.08.16 - A mystical teleportation portal, with swirling lila hues and sparks of white light. The portal is circular, with ancient runes glowing along its edge-638350565329174093.png",
+        "abilityType": 4,
+        "IsAOE": false
+      }
+    ],
+    "ModifiersCombined": 0,
+    "Gender": 0,
+    "Type": 1,
+    "Power": 3,
+    "Age": 9,
+    "ImagePath": "Golden Freddy-638350740914190917.jpg"
   }
 ]
