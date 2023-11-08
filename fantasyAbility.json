@@ -1,0 +1,10 @@
+[
+  {
+    "Name": "Teleportering 1",
+    "Description": "Denne kraft, sørger for at du kan teleportere dig kun til de steder du kan se lige nu",
+    "AbilityLevelRequirement": 2,
+    "imagePath": "DALL·E 2023-11-08 16.08.16 - A mystical teleportation portal, with swirling lila hues and sparks of white light. The portal is circular, with ancient runes glowing along its edge-638350565329174093.png",
+    "abilityType": 4,
+    "IsAOE": false
+  }
+]
