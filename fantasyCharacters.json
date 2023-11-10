@@ -270,7 +270,7 @@
     "Power": 8,
     "Age": 18,
     "ImagePath": "zee.jpg",
-    "MusicPath": null
+    "MusicPath": "zee-638352501954334033.wav"
   },
   {
     "Name": "superman",
@@ -343,7 +343,7 @@
     "Power": 7,
     "Age": 20,
     "ImagePath": "superman-638350570175144223.jpg",
-    "MusicPath": null
+    "MusicPath": "sup-638352501057478284.wav"
   },
   {
     "Name": "supergirl",
@@ -416,7 +416,7 @@
     "Power": 4,
     "Age": 18,
     "ImagePath": "supergirl-638350575533085380.jpg",
-    "MusicPath": null
+    "MusicPath": "sup-638352497459868798.wav"
   },
   {
     "Name": "harley queen",
@@ -458,11 +458,7 @@
     "SavingWisdom": 0,
     "SavingCharisma": 0,
     "LoverId": "jokeren",
-    "Skills": [
-      {
-        "Skill": "god til bumber"
-      }
-    ],
+    "Skills": [],
     "Friends": [
       {
         "Friend": "batgirl"
@@ -479,7 +475,7 @@
     "Power": 3,
     "Age": 16,
     "ImagePath": "harley quen-638350619395422126.jpg",
-    "MusicPath": null
+    "MusicPath": "harle-638352493075204867.wav"
   },
   {
     "Name": "hal jordan",
@@ -542,7 +538,7 @@
     "Power": 3,
     "Age": 20,
     "ImagePath": "hal jordan-638350622524439162.jpg",
-    "MusicPath": null
+    "MusicPath": "hal-638352492632280559.wav"
   },
   {
     "Name": "jessica",
@@ -606,7 +602,7 @@
     "Power": 3,
     "Age": 18,
     "ImagePath": "jessica-638350626394099866.jpg",
-    "MusicPath": null
+    "MusicPath": "jess-638352492230426668.wav"
   },
   {
     "Name": "bumblebee",
@@ -666,7 +662,7 @@
     "Power": 3,
     "Age": 14,
     "ImagePath": "bumblebee-638350628899683000.jpg",
-    "MusicPath": null
+    "MusicPath": "bumbe-638352491855270368.wav"
   },
   {
     "Name": "Arcanus",
@@ -784,7 +780,7 @@
     "Power": 3,
     "Age": 20,
     "ImagePath": "the_flash__dc_superhero_girls__by_azooz2662_df1x9pi-fullview-638350640736859236.jpg",
-    "MusicPath": null
+    "MusicPath": "yhrere-638352491395372915.wav"
   },
   {
     "Name": "timon",
@@ -902,7 +898,7 @@
     "Power": 7,
     "Age": 40,
     "ImagePath": "pumbaa-638350650940675245.png",
-    "MusicPath": null
+    "MusicPath": "pumb-638352500651769227.wav"
   },
   {
     "Name": "fuseli",
@@ -965,7 +961,7 @@
     "Power": 1,
     "Age": 40,
     "ImagePath": "fuseli-638350653884454623.jpg",
-    "MusicPath": null
+    "MusicPath": "fuseli-638352484567595806.wav"
   },
   {
     "Name": "scarecrow",
@@ -1025,7 +1021,7 @@
     "Power": 2,
     "Age": 24,
     "ImagePath": "scarecrow-638350659797319714.jpg",
-    "MusicPath": null
+    "MusicPath": "scare-638352487723480775.wav"
   },
   {
     "Name": "pingvin manden",
@@ -1088,7 +1084,7 @@
     "Power": 2,
     "Age": 40,
     "ImagePath": "pingvin manden-638350664095391678.jpg",
-    "MusicPath": null
+    "MusicPath": "pingvinen-638352487303325131.wav"
   },
   {
     "Name": "catwoman",
@@ -1151,7 +1147,7 @@
     "Power": 3,
     "Age": 18,
     "ImagePath": "catwoman-638350668290824663.jpg",
-    "MusicPath": null
+    "MusicPath": "xa-638352491011218149.wav"
   },
   {
     "Name": "riddleren",
@@ -1213,7 +1209,7 @@
     "Power": 2,
     "Age": 23,
     "ImagePath": "riddleren-638350671264401476.jpg",
-    "MusicPath": null
+    "MusicPath": "ridleren-638352486664540003.wav"
   },
   {
     "Name": "mr.frezze",
@@ -1269,7 +1265,7 @@
     "Power": 4,
     "Age": 35,
     "ImagePath": "mr.frezze-638350672886336735.jpg",
-    "MusicPath": null
+    "MusicPath": "fr-638352497079781216.wav"
   },
   {
     "Name": "jokeren",
@@ -1333,7 +1329,7 @@
     "Power": 4,
     "Age": 20,
     "ImagePath": "jokeren-638352392048786759.jpg",
-    "MusicPath": null
+    "MusicPath": "joe-638352496568035086.wav"
   },
   {
     "Name": "batman",
@@ -1409,7 +1405,7 @@
     "Power": 4,
     "Age": 23,
     "ImagePath": "batman-638350676206512903.jpg",
-    "MusicPath": null
+    "MusicPath": "batm-638352496217847538.wav"
   },
   {
     "Name": "batgirl",
@@ -1485,7 +1481,7 @@
     "Power": 3,
     "Age": 16,
     "ImagePath": "batgirl-638350678966330040.jpg",
-    "MusicPath": null
+    "MusicPath": "bat-638352490525802563.wav"
   },
   {
     "Name": "green arrow",
@@ -1549,7 +1545,7 @@
     "Power": 4,
     "Age": 27,
     "ImagePath": "green arrow-638350685130751454.png",
-    "MusicPath": null
+    "MusicPath": "greee-638352495942412655.wav"
   },
   {
     "Name": "brain",
@@ -1609,7 +1605,7 @@
     "Power": 1,
     "Age": 70,
     "ImagePath": "brain-638350686066210182.jpg",
-    "MusicPath": null
+    "MusicPath": "brain-638352483823948289.wav"
   },
   {
     "Name": "dr.light",
@@ -1669,7 +1665,7 @@
     "Power": 4,
     "Age": 28,
     "ImagePath": "dr.light-638350687032555248.png",
-    "MusicPath": null
+    "MusicPath": "dr-638352495612215499.wav"
   },
   {
     "Name": "bruder blod",
@@ -1729,7 +1725,7 @@
     "Power": 5,
     "Age": 45,
     "ImagePath": "bruder blod-638350688219004044.jpg",
-    "MusicPath": null
+    "MusicPath": "br-638352498673314549.wav"
   },
   {
     "Name": "starfire",
@@ -1796,7 +1792,7 @@
     "Power": 4,
     "Age": 16,
     "ImagePath": "starfire__teen_titans_go__by_juacoproductionsarts_dezjgbw-fullview-638350689155645346.jpg",
-    "MusicPath": null
+    "MusicPath": "star-638352495255298644.wav"
   },
   {
     "Name": "cyborg",
@@ -1852,7 +1848,7 @@
     "Power": 4,
     "Age": 16,
     "ImagePath": "cyborg-638350690323862266.jpg",
-    "MusicPath": null
+    "MusicPath": "cy-638352494594421024.wav"
   },
   {
     "Name": "lex luther",
@@ -1918,7 +1914,7 @@
     "Power": 6,
     "Age": 45,
     "ImagePath": "lex luther-638350691031336006.jpg",
-    "MusicPath": null
+    "MusicPath": "lex-638352499700941304.wav"
   },
   {
     "Name": "aquaman",
@@ -1988,7 +1984,7 @@
     "Power": 4,
     "Age": 25,
     "ImagePath": "aguaman-638350693075812891.jpg",
-    "MusicPath": null
+    "MusicPath": "aq-638352494096159955.wav"
   },
   {
     "Name": "aqualad",
@@ -2051,7 +2047,7 @@
     "Power": 3,
     "Age": 12,
     "ImagePath": "aqualad-638350694428409803.jpg",
-    "MusicPath": null
+    "MusicPath": "fdgfdgffg-638352489950129993.wav"
   },
   {
     "Name": "wonderwomen",
@@ -2120,7 +2116,7 @@
     "Power": 5,
     "Age": 120,
     "ImagePath": "wonder woman-638350696187446394.jpg",
-    "MusicPath": null
+    "MusicPath": "wond-638352498251704018.wav"
   },
   {
     "Name": "gentlemen ghost",
@@ -2179,7 +2175,7 @@
     "Power": 6,
     "Age": 100,
     "ImagePath": "gentlemen ghost-638350699363989672.jpg",
-    "MusicPath": null
+    "MusicPath": "jame-638352499041740480.wav"
   },
   {
     "Name": "uli",
@@ -2231,7 +2227,7 @@
     "Power": 0,
     "Age": 35,
     "ImagePath": "uli-638350703615408143.jpg",
-    "MusicPath": null
+    "MusicPath": "uli-638352482016009965.wav"
   },
   {
     "Name": "elmoco",
@@ -2287,7 +2283,7 @@
     "Power": 2,
     "Age": 45,
     "ImagePath": "elmoco-638350704095006621.jpg",
-    "MusicPath": null
+    "MusicPath": "elmoco-638352485965102058.wav"
   },
   {
     "Name": "puss in boots",
@@ -2354,7 +2350,7 @@
     "Power": 3,
     "Age": 20,
     "ImagePath": "puss in boots-638350704960975079.jpg",
-    "MusicPath": null
+    "MusicPath": "ghfghfh-638352489487261422.wav"
   },
   {
     "Name": "star sapphire",
@@ -2421,7 +2417,7 @@
     "Power": 4,
     "Age": 18,
     "ImagePath": "star sapphire-638350706197127770.jpg",
-    "MusicPath": null
+    "MusicPath": "satrefr-638352493531548435.wav"
   },
   {
     "Name": "grundy",
@@ -2484,7 +2480,7 @@
     "Power": 5,
     "Age": 70,
     "ImagePath": "grundy-638350707163176213.jpg",
-    "MusicPath": null
+    "MusicPath": "gru-638352497783387904.wav"
   },
   {
     "Name": "dr.benjamin",
@@ -2547,7 +2543,7 @@
     "Power": 7,
     "Age": 20,
     "ImagePath": "file-Dl2ymQiIFkFunN8S2PW97uJK-638350712355616357.jpg",
-    "MusicPath": null
+    "MusicPath": "dri-638352500068007176.wav"
   },
   {
     "Name": "Drakins",
@@ -2815,7 +2811,7 @@
     "Power": 2,
     "Age": 9,
     "ImagePath": "Bonnie-638350735386286221.png",
-    "MusicPath": null
+    "MusicPath": "bonnie-638352485582977531.wav"
   },
   {
     "Name": "Foxy",
@@ -2891,7 +2887,7 @@
     "Power": 3,
     "Age": 9,
     "ImagePath": "Foxy-638350739333172772.jpg",
-    "MusicPath": null
+    "MusicPath": "foxy-638352488529835905.wav"
   },
   {
     "Name": "Golden Freddy",
@@ -2959,7 +2955,7 @@
     "Power": 3,
     "Age": 9,
     "ImagePath": "Golden Freddy-638350740914190917.jpg",
-    "MusicPath": null
+    "MusicPath": "golden-638352488142197807.wav"
   },
   {
     "Name": "tandori",
@@ -3025,7 +3021,7 @@
     "Power": 0,
     "Age": 45,
     "ImagePath": "tandori-638351447343023233.jpg",
-    "MusicPath": null
+    "MusicPath": "tandori-638352480734412650.wav"
   },
   {
     "Name": "eddy",
@@ -3077,7 +3073,7 @@
     "Power": 1,
     "Age": 15,
     "ImagePath": "eddy-638351448589758236.jpg",
-    "MusicPath": null
+    "MusicPath": "eddy-638352483083066205.wav"
   },
   {
     "Name": "mordekaiser",
@@ -3192,6 +3188,6 @@
     "Power": 2,
     "Age": 18,
     "ImagePath": "vanny-638352383872799775.jpg",
-    "MusicPath": null
+    "MusicPath": "vanny-638352485094281825.wav"
   }
 ]
