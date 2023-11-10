@@ -181,6 +181,14 @@
         "imagePath": "frost nova-638352436637380539.jpg",
         "abilityType": 2,
         "IsAOE": true
+      },
+      {
+        "Name": "suge portalen",
+        "Description": "denne spell suger dem er er lidt tæt på eller er tæt på portalen,bliver langsomt suget hen til den og bliver teleporteret til det sted du havet valgt",
+        "AbilityLevelRequirement": 10,
+        "imagePath": "portal-638352467818411529.jpg",
+        "abilityType": 6,
+        "IsAOE": true
       }
     ],
     "ModifiersCombined": 0,
