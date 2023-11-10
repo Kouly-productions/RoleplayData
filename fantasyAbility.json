@@ -6,5 +6,13 @@
     "imagePath": "DALL·E 2023-11-08 16.08.16 - A mystical teleportation portal, with swirling lila hues and sparks of white light. The portal is circular, with ancient runes glowing along its edge-638350565329174093.png",
     "abilityType": 4,
     "IsAOE": false
+  },
+  {
+    "Name": "ildkugle",
+    "Description": "denne slags ild kugle er meget stærk og kan skyde meget langt og skyder meget hurtigt afsted",
+    "AbilityLevelRequirement": 10,
+    "imagePath": "dnd_5e_spellcard__fire_bolt_by_lazyselkie_de45iq5-fullview-638352395875015603.jpg",
+    "abilityType": 0,
+    "IsAOE": false
   }
 ]
