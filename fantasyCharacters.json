@@ -69,7 +69,120 @@
         "Enemy": "onyxia"
       }
     ],
-    "Abilities": [],
+    "Abilities": [
+      {
+        "Name": "ildkugle",
+        "Description": "denne slags ild kugle er meget stærk og kan skyde meget langt og skyder meget hurtigt afsted",
+        "AbilityLevelRequirement": 10,
+        "imagePath": "dnd_5e_spellcard__fire_bolt_by_lazyselkie_de45iq5-fullview-638352395875015603.jpg",
+        "abilityType": 0,
+        "IsAOE": false
+      },
+      {
+        "Name": "tornato",
+        "Description": "skaber en kæmpe tornato der er meget kraftfuld",
+        "AbilityLevelRequirement": 10,
+        "imagePath": "tornato-638352402796925679.png",
+        "abilityType": 4,
+        "IsAOE": true
+      },
+      {
+        "Name": "frostbolt",
+        "Description": "skyder med en meget stærk frostbolt som er så kold at et menneske vil ikke kunne klare at blive ramt en gang",
+        "AbilityLevelRequirement": 10,
+        "imagePath": "frostbolt_by_bogrim_d1zgb49-fullview-638352403769971262.jpg",
+        "abilityType": 2,
+        "IsAOE": false
+      },
+      {
+        "Name": "teleport",
+        "Description": "det en teleporterings dør hvor du og dine venner kan tage alle de steder som i har været ved før en gang eller flere gange før,du kan selv lukke portalen igen",
+        "AbilityLevelRequirement": 10,
+        "imagePath": "teleport-638352406914466019.jpg",
+        "abilityType": 6,
+        "IsAOE": false
+      },
+      {
+        "Name": "arcaneblast",
+        "Description": "denne ability skyder med en arcane blast som har en meget magtfuld skade,man laver en lilla kugle og skyder hvor den flyver lyn hurtigt og springer på personen der bliver ramt",
+        "AbilityLevelRequirement": 10,
+        "imagePath": "arcane blast-638352408243708233.jpg",
+        "abilityType": 6,
+        "IsAOE": false
+      },
+      {
+        "Name": "kopiere sig selv",
+        "Description": "kopiere 3 flere af sig selv som efterliner det du gøre og angriber den du angriber,deres magi er ligså stærk som din egen,men de dør på et slag eller et skud",
+        "AbilityLevelRequirement": 10,
+        "imagePath": "kopi spell-638352412180258476.jpg",
+        "abilityType": 6,
+        "IsAOE": false
+      },
+      {
+        "Name": "meteor regn",
+        "Description": "denne spell er meget kraftfuld,man kan kun lære at få den hvis man er i level 10 eller højer,man skyder en kæmpe meteor som er mange ildkugler som kommer fra det sted du er ved,kan kun bruges når man har flyve magien da man skal op ved skyerne for at bruge den",
+        "AbilityLevelRequirement": 10,
+        "imagePath": "file-urqswDbzqOGZKug3VKbxwiod-638352414889167961.jpg",
+        "abilityType": 0,
+        "IsAOE": true
+      },
+      {
+        "Name": "flyveævnen",
+        "Description": "fordi den her er lvl 10,kan du flyve så højt op at du kan være ved skyerne,du flyver også meget hurtigt",
+        "AbilityLevelRequirement": 10,
+        "imagePath": "flyve kraft-638352417454041723.jpg",
+        "abilityType": 4,
+        "IsAOE": false
+      },
+      {
+        "Name": "kvalkræft",
+        "Description": "den her kvalkræft er en som sithlords har,de har den kun i level 1 da de kun kan bruge den mod dem der er meget mere svage in dem selv,men den her spell er så OP,da den er i lvl 10,da den kan kvale dem der kun er lidt mere svag in en selv,kan ikke bruges med robotter ting,drager,eller mod elementer",
+        "AbilityLevelRequirement": 10,
+        "imagePath": "kvalkræft-638352420838895754.jpg",
+        "abilityType": 4,
+        "IsAOE": false
+      },
+      {
+        "Name": "skabeting",
+        "Description": "den her ability kan man skabe de ting man har lyst til,man tænker på den ting man gerne vil skabe,og efter det skal man konsetere sig i at skabe den med sine magiske ævner",
+        "AbilityLevelRequirement": 10,
+        "imagePath": "skabe ting-638352423816014987.jpg",
+        "abilityType": 4,
+        "IsAOE": false
+      },
+      {
+        "Name": "flamme",
+        "Description": "den her skyder med en flamme,den starter der hvor du har valgt at skyde den ved,da den er level 10 er den meget OP,og har høj skade,og spræder sig meget hurtigt,svagheden er at hæle utroligt meget vand ned i det,eller at bruge en frost aoi som er level 10 som også kan stoppe flammen",
+        "AbilityLevelRequirement": 10,
+        "imagePath": "flamme-638352427821782220.jpg",
+        "abilityType": 0,
+        "IsAOE": true
+      },
+      {
+        "Name": "forstørelses magien",
+        "Description": "denne her spell,gøre man sig til en kæmpe hvor man bliver ligså stor som et højhus,ens krafter bliver også støre og stærker af det,indtil man har gjort sig i normal størrelse igen,det der er dårligt ved den er at man bliver langsommer og kan nemmer blive ramt,det der gøre den god er at man tager mindre skade,og at man bliver stærker af det i magi styrken",
+        "AbilityLevelRequirement": 10,
+        "imagePath": "gigant-638352429278417149.jpg",
+        "abilityType": 4,
+        "IsAOE": false
+      },
+      {
+        "Name": "skubbekraft",
+        "Description": "denne skubbekraft er meget OP,man kan skubbe en meget langt væk hvor personen bliver skubbet meget hurtigt væk hvor de lander hårdt på en ting der kan stå afvejen,kan også skubbe dem hen til dig,kan også skubbe dem såden hvor du bruger kraften til at trække dem op og smider personen rundt i den retning du tager din knytnæve hånd ved,når du slipper falder personen bare ned",
+        "AbilityLevelRequirement": 10,
+        "imagePath": "skubbekraft-638352432553751218.jpg",
+        "abilityType": 4,
+        "IsAOE": false
+      },
+      {
+        "Name": "frost nova",
+        "Description": "den her spell fungere såden i lvl 10 at du kan stå lidt afstand fra dine fjender og skyde en frost nova hvor deres fødder bliver frosset fast i nogen seckundter",
+        "AbilityLevelRequirement": 10,
+        "imagePath": "frost nova-638352436637380539.jpg",
+        "abilityType": 2,
+        "IsAOE": true
+      }
+    ],
     "ModifiersCombined": 0,
     "Gender": 0,
     "Type": 0,
