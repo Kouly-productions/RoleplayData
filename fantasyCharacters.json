@@ -75,7 +75,8 @@
     "Type": 0,
     "Power": 8,
     "Age": 18,
-    "ImagePath": "darthjacob-638348921021411573.jpg"
+    "ImagePath": "darthjacob-638348921021411573.jpg",
+    "MusicPath": null
   },
   {
     "Name": "zee zatara",
@@ -83,7 +84,7 @@
     "Money": "1milion",
     "Description": "jeg ved ikke hvorfor men jeg taber bukserne heletiden",
     "CharacterHistory": "zee var ellers bare kun lidt dullet før,men pludselig er hun meget dullet,hun havet problemer med at styre sin mørkeside før hen,men har lært at styre dem nemmer ved hjælp af raven,senere hen bliv hun bedstevenner med jacobhelten og bliv kærster med ham fordi de havet for enet deres magi og gjort ham ligeså ung som hinde,senere hen havet jacobhelten lært zee at komme op i hindes fulde potionsjale da hun var meget mere OP in hun troet,er 3 stærkest i verdnen hvilket gøre hinde broken da hun er så mægtig at hun kan 1mod2 super stærke magikere",
-    "Level": 8,
+    "Level": 10,
     "Health": 0,
     "Armor": 0,
     "Haste": 0,
@@ -147,7 +148,8 @@
     "Type": 0,
     "Power": 8,
     "Age": 18,
-    "ImagePath": "zee.jpg"
+    "ImagePath": "zee.jpg",
+    "MusicPath": null
   },
   {
     "Name": "superman",
@@ -219,7 +221,8 @@
     "Type": 0,
     "Power": 7,
     "Age": 20,
-    "ImagePath": "superman-638350570175144223.jpg"
+    "ImagePath": "superman-638350570175144223.jpg",
+    "MusicPath": null
   },
   {
     "Name": "supergirl",
@@ -291,7 +294,8 @@
     "Type": 0,
     "Power": 4,
     "Age": 18,
-    "ImagePath": "supergirl-638350575533085380.jpg"
+    "ImagePath": "supergirl-638350575533085380.jpg",
+    "MusicPath": null
   },
   {
     "Name": "harley queen",
@@ -353,7 +357,8 @@
     "Type": 0,
     "Power": 3,
     "Age": 16,
-    "ImagePath": "harley quen-638350619395422126.jpg"
+    "ImagePath": "harley quen-638350619395422126.jpg",
+    "MusicPath": null
   },
   {
     "Name": "hal jordan",
@@ -415,7 +420,8 @@
     "Type": 0,
     "Power": 3,
     "Age": 20,
-    "ImagePath": "hal jordan-638350622524439162.jpg"
+    "ImagePath": "hal jordan-638350622524439162.jpg",
+    "MusicPath": null
   },
   {
     "Name": "jessica",
@@ -478,7 +484,8 @@
     "Type": 0,
     "Power": 3,
     "Age": 18,
-    "ImagePath": "jessica-638350626394099866.jpg"
+    "ImagePath": "jessica-638350626394099866.jpg",
+    "MusicPath": null
   },
   {
     "Name": "bumblebee",
@@ -537,7 +544,8 @@
     "Type": 0,
     "Power": 3,
     "Age": 14,
-    "ImagePath": "bumblebee-638350628899683000.jpg"
+    "ImagePath": "bumblebee-638350628899683000.jpg",
+    "MusicPath": null
   },
   {
     "Name": "Arcanus",
@@ -588,7 +596,8 @@
     "Type": 0,
     "Power": 8,
     "Age": 20,
-    "ImagePath": "hvid magisk rider-638350638167638291.png"
+    "ImagePath": "hvid magisk rider-638350638167638291.png",
+    "MusicPath": null
   },
   {
     "Name": "the flash",
@@ -653,7 +662,8 @@
     "Type": 0,
     "Power": 3,
     "Age": 20,
-    "ImagePath": "the_flash__dc_superhero_girls__by_azooz2662_df1x9pi-fullview-638350640736859236.jpg"
+    "ImagePath": "the_flash__dc_superhero_girls__by_azooz2662_df1x9pi-fullview-638350640736859236.jpg",
+    "MusicPath": null
   },
   {
     "Name": "timon",
@@ -704,7 +714,8 @@
     "Type": 7,
     "Power": 0,
     "Age": 25,
-    "ImagePath": "timon-638350649809612127.jpg"
+    "ImagePath": "timon-638350649809612127.jpg",
+    "MusicPath": null
   },
   {
     "Name": "pumbaa",
@@ -769,7 +780,8 @@
     "Type": 7,
     "Power": 7,
     "Age": 40,
-    "ImagePath": "pumbaa-638350650940675245.png"
+    "ImagePath": "pumbaa-638350650940675245.png",
+    "MusicPath": null
   },
   {
     "Name": "fuseli",
@@ -831,7 +843,8 @@
     "Type": 6,
     "Power": 1,
     "Age": 40,
-    "ImagePath": "fuseli-638350653884454623.jpg"
+    "ImagePath": "fuseli-638350653884454623.jpg",
+    "MusicPath": null
   },
   {
     "Name": "scarecrow",
@@ -890,7 +903,8 @@
     "Type": 0,
     "Power": 2,
     "Age": 24,
-    "ImagePath": "scarecrow-638350659797319714.jpg"
+    "ImagePath": "scarecrow-638350659797319714.jpg",
+    "MusicPath": null
   },
   {
     "Name": "pingvin manden",
@@ -952,7 +966,8 @@
     "Type": 7,
     "Power": 2,
     "Age": 40,
-    "ImagePath": "pingvin manden-638350664095391678.jpg"
+    "ImagePath": "pingvin manden-638350664095391678.jpg",
+    "MusicPath": null
   },
   {
     "Name": "catwoman",
@@ -1014,7 +1029,8 @@
     "Type": 0,
     "Power": 3,
     "Age": 18,
-    "ImagePath": "catwoman-638350668290824663.jpg"
+    "ImagePath": "catwoman-638350668290824663.jpg",
+    "MusicPath": null
   },
   {
     "Name": "riddleren",
@@ -1075,7 +1091,8 @@
     "Type": 0,
     "Power": 2,
     "Age": 23,
-    "ImagePath": "riddleren-638350671264401476.jpg"
+    "ImagePath": "riddleren-638350671264401476.jpg",
+    "MusicPath": null
   },
   {
     "Name": "mr.frezze",
@@ -1130,7 +1147,8 @@
     "Type": 1,
     "Power": 4,
     "Age": 35,
-    "ImagePath": "mr.frezze-638350672886336735.jpg"
+    "ImagePath": "mr.frezze-638350672886336735.jpg",
+    "MusicPath": null
   },
   {
     "Name": "jokeren",
@@ -1193,7 +1211,8 @@
     "Type": 0,
     "Power": 4,
     "Age": 20,
-    "ImagePath": "jokeren-638350674969850252.jpg"
+    "ImagePath": "jokeren-638350674969850252.jpg",
+    "MusicPath": null
   },
   {
     "Name": "batman",
@@ -1268,7 +1287,8 @@
     "Type": 0,
     "Power": 4,
     "Age": 23,
-    "ImagePath": "batman-638350676206512903.jpg"
+    "ImagePath": "batman-638350676206512903.jpg",
+    "MusicPath": null
   },
   {
     "Name": "batgirl",
@@ -1343,7 +1363,8 @@
     "Type": 0,
     "Power": 3,
     "Age": 16,
-    "ImagePath": "batgirl-638350678966330040.jpg"
+    "ImagePath": "batgirl-638350678966330040.jpg",
+    "MusicPath": null
   },
   {
     "Name": "green arrow",
@@ -1406,7 +1427,8 @@
     "Type": 0,
     "Power": 3,
     "Age": 27,
-    "ImagePath": "green arrow-638350685130751454.png"
+    "ImagePath": "green arrow-638350685130751454.png",
+    "MusicPath": null
   },
   {
     "Name": "brain",
@@ -1465,7 +1487,8 @@
     "Type": 1,
     "Power": 1,
     "Age": 70,
-    "ImagePath": "brain-638350686066210182.jpg"
+    "ImagePath": "brain-638350686066210182.jpg",
+    "MusicPath": null
   },
   {
     "Name": "dr.light",
@@ -1524,7 +1547,8 @@
     "Type": 0,
     "Power": 4,
     "Age": 28,
-    "ImagePath": "dr.light-638350687032555248.png"
+    "ImagePath": "dr.light-638350687032555248.png",
+    "MusicPath": null
   },
   {
     "Name": "bruder blod",
@@ -1583,7 +1607,8 @@
     "Type": 0,
     "Power": 5,
     "Age": 45,
-    "ImagePath": "bruder blod-638350688219004044.jpg"
+    "ImagePath": "bruder blod-638350688219004044.jpg",
+    "MusicPath": null
   },
   {
     "Name": "starfire",
@@ -1649,7 +1674,8 @@
     "Type": 5,
     "Power": 4,
     "Age": 16,
-    "ImagePath": "starfire__teen_titans_go__by_juacoproductionsarts_dezjgbw-fullview-638350689155645346.jpg"
+    "ImagePath": "starfire__teen_titans_go__by_juacoproductionsarts_dezjgbw-fullview-638350689155645346.jpg",
+    "MusicPath": null
   },
   {
     "Name": "cyborg",
@@ -1704,7 +1730,8 @@
     "Type": 1,
     "Power": 4,
     "Age": 16,
-    "ImagePath": "cyborg-638350690323862266.jpg"
+    "ImagePath": "cyborg-638350690323862266.jpg",
+    "MusicPath": null
   },
   {
     "Name": "lex luther",
@@ -1769,7 +1796,8 @@
     "Type": 0,
     "Power": 6,
     "Age": 45,
-    "ImagePath": "lex luther-638350691031336006.jpg"
+    "ImagePath": "lex luther-638350691031336006.jpg",
+    "MusicPath": null
   },
   {
     "Name": "aquaman",
@@ -1838,7 +1866,8 @@
     "Type": 7,
     "Power": 4,
     "Age": 25,
-    "ImagePath": "aguaman-638350693075812891.jpg"
+    "ImagePath": "aguaman-638350693075812891.jpg",
+    "MusicPath": null
   },
   {
     "Name": "aqualad",
@@ -1900,7 +1929,8 @@
     "Type": 0,
     "Power": 3,
     "Age": 12,
-    "ImagePath": "aqualad-638350694428409803.jpg"
+    "ImagePath": "aqualad-638350694428409803.jpg",
+    "MusicPath": null
   },
   {
     "Name": "wonderwomen",
@@ -1968,7 +1998,8 @@
     "Type": 8,
     "Power": 5,
     "Age": 120,
-    "ImagePath": "wonder woman-638350696187446394.jpg"
+    "ImagePath": "wonder woman-638350696187446394.jpg",
+    "MusicPath": null
   },
   {
     "Name": "gentlemen ghost",
@@ -2026,7 +2057,8 @@
     "Type": 4,
     "Power": 6,
     "Age": 100,
-    "ImagePath": "gentlemen ghost-638350699363989672.jpg"
+    "ImagePath": "gentlemen ghost-638350699363989672.jpg",
+    "MusicPath": null
   },
   {
     "Name": "uli",
@@ -2077,7 +2109,8 @@
     "Type": 7,
     "Power": 0,
     "Age": 35,
-    "ImagePath": "uli-638350703615408143.jpg"
+    "ImagePath": "uli-638350703615408143.jpg",
+    "MusicPath": null
   },
   {
     "Name": "elmoco",
@@ -2132,7 +2165,8 @@
     "Type": 0,
     "Power": 2,
     "Age": 45,
-    "ImagePath": "elmoco-638350704095006621.jpg"
+    "ImagePath": "elmoco-638350704095006621.jpg",
+    "MusicPath": null
   },
   {
     "Name": "puss in boots",
@@ -2198,7 +2232,8 @@
     "Type": 7,
     "Power": 3,
     "Age": 20,
-    "ImagePath": "puss in boots-638350704960975079.jpg"
+    "ImagePath": "puss in boots-638350704960975079.jpg",
+    "MusicPath": null
   },
   {
     "Name": "star sapphire",
@@ -2264,7 +2299,8 @@
     "Type": 0,
     "Power": 4,
     "Age": 18,
-    "ImagePath": "star sapphire-638350706197127770.jpg"
+    "ImagePath": "star sapphire-638350706197127770.jpg",
+    "MusicPath": null
   },
   {
     "Name": "grundy",
@@ -2326,7 +2362,8 @@
     "Type": 8,
     "Power": 5,
     "Age": 70,
-    "ImagePath": "grundy-638350707163176213.jpg"
+    "ImagePath": "grundy-638350707163176213.jpg",
+    "MusicPath": null
   },
   {
     "Name": "dr.benjamin",
@@ -2388,7 +2425,8 @@
     "Type": 0,
     "Power": 7,
     "Age": 20,
-    "ImagePath": "file-Dl2ymQiIFkFunN8S2PW97uJK-638350712355616357.jpg"
+    "ImagePath": "file-Dl2ymQiIFkFunN8S2PW97uJK-638350712355616357.jpg",
+    "MusicPath": null
   },
   {
     "Name": "Drakins",
@@ -2439,7 +2477,8 @@
     "Type": 2,
     "Power": 8,
     "Age": 724,
-    "ImagePath": "DALL·E 2023-11-08 19.08.55 - A grand dragon's head is framed for a game's boss encounter, with scales that have a lustrous black hue, overlaid with streaks of crimson. The dragon'-638350721151269034.png"
+    "ImagePath": "DALL·E 2023-11-08 19.08.55 - A grand dragon's head is framed for a game's boss encounter, with scales that have a lustrous black hue, overlaid with streaks of crimson. The dragon'-638350721151269034.png",
+    "MusicPath": null
   },
   {
     "Name": "Freddy",
@@ -2514,7 +2553,8 @@
     "Type": 1,
     "Power": 3,
     "Age": 9,
-    "ImagePath": "Freddy-638350732730658897.jpg"
+    "ImagePath": "Freddy-638350732730658897.jpg",
+    "MusicPath": null
   },
   {
     "Name": "Chica",
@@ -2583,7 +2623,8 @@
     "Type": 1,
     "Power": 2,
     "Age": 9,
-    "ImagePath": "Chic-638350734249991209.jpg"
+    "ImagePath": "Chic-638350734249991209.jpg",
+    "MusicPath": null
   },
   {
     "Name": "Bonnie",
@@ -2652,7 +2693,8 @@
     "Type": 1,
     "Power": 2,
     "Age": 9,
-    "ImagePath": "Bonnie-638350735386286221.png"
+    "ImagePath": "Bonnie-638350735386286221.png",
+    "MusicPath": null
   },
   {
     "Name": "Foxy",
@@ -2727,7 +2769,8 @@
     "Type": 1,
     "Power": 3,
     "Age": 9,
-    "ImagePath": "Foxy-638350739333172772.jpg"
+    "ImagePath": "Foxy-638350739333172772.jpg",
+    "MusicPath": null
   },
   {
     "Name": "Golden Freddy",
@@ -2794,7 +2837,8 @@
     "Type": 1,
     "Power": 3,
     "Age": 9,
-    "ImagePath": "Golden Freddy-638350740914190917.jpg"
+    "ImagePath": "Golden Freddy-638350740914190917.jpg",
+    "MusicPath": null
   },
   {
     "Name": "tandori",
@@ -2859,7 +2903,8 @@
     "Type": 8,
     "Power": 0,
     "Age": 45,
-    "ImagePath": "tandori-638351447343023233.jpg"
+    "ImagePath": "tandori-638351447343023233.jpg",
+    "MusicPath": null
   },
   {
     "Name": "eddy",
@@ -2910,7 +2955,8 @@
     "Type": 0,
     "Power": 1,
     "Age": 15,
-    "ImagePath": "eddy-638351448589758236.jpg"
+    "ImagePath": "eddy-638351448589758236.jpg",
+    "MusicPath": null
   },
   {
     "Name": "mordekaiser",
@@ -2965,6 +3011,66 @@
     "Type": 4,
     "Power": 6,
     "Age": 100,
-    "ImagePath": "mordekaiser-ashen-graveknight-762x-638351453653334027.jpg"
+    "ImagePath": "mordekaiser-ashen-graveknight-762x-638351453653334027.jpg",
+    "MusicPath": null
+  },
+  {
+    "Name": "vanny",
+    "Country": "fnaf landet",
+    "Money": "8000",
+    "Description": "glitchtrap siger heletiden at jeg lyder som harley quen fra DC super hero girls",
+    "CharacterHistory": "",
+    "Level": 3,
+    "Health": 0,
+    "Armor": 0,
+    "Haste": 0,
+    "Strength": 0,
+    "Dexterity": 0,
+    "Constitution": 0,
+    "Intellect": 0,
+    "Wisdom": 0,
+    "Charisma": 0,
+    "Actrobatic": 0,
+    "AnimalTaiming": 0,
+    "Arcana": 0,
+    "Athletics": 0,
+    "Deception": 0,
+    "History": 0,
+    "Insight": 0,
+    "Intimidation": 0,
+    "Investigation": 0,
+    "Medicine": 0,
+    "Nature": 0,
+    "Perception": 0,
+    "Performance": 0,
+    "Persuasion": 0,
+    "SleightOfHand": 0,
+    "Stealth": 0,
+    "Survival": 0,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "god til at snige myrde"
+      },
+      {
+        "Skill": "god til at kontrollere glamrocks robotter"
+      }
+    ],
+    "Friends": [],
+    "Enemies": [],
+    "Abilities": [],
+    "ModifiersCombined": 0,
+    "Gender": 1,
+    "Type": 1,
+    "Power": 2,
+    "Age": 18,
+    "ImagePath": "vanny-638352383872799775.jpg",
+    "MusicPath": null
   }
 ]
