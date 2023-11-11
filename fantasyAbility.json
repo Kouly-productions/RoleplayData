@@ -126,5 +126,29 @@
     "imagePath": "portal-638352467818411529.jpg",
     "abilityType": 6,
     "IsAOE": true
+  },
+  {
+    "Name": "magiskade beskyttelse",
+    "Description": "laver en ring,hvor dig og dine venner der står på den bliver beskyttet mod fjendtlige magiere",
+    "AbilityLevelRequirement": 10,
+    "imagePath": "beskyttelse mod fjendtlig magi-638353143580983893.jpg",
+    "abilityType": 6,
+    "IsAOE": true
+  },
+  {
+    "Name": "frost væg",
+    "Description": "blockere for de fjende der er edten foran eller bag ved dig,ved at lave en stor frost mur foran dem",
+    "AbilityLevelRequirement": 10,
+    "imagePath": "frost væg-638353145331053560.jpg",
+    "abilityType": 2,
+    "IsAOE": false
+  },
+  {
+    "Name": "lynkald",
+    "Description": "skaber lyn fra himmlen ",
+    "AbilityLevelRequirement": 10,
+    "imagePath": "Lynkald-638353146592706826.jpg",
+    "abilityType": 3,
+    "IsAOE": true
   }
 ]
