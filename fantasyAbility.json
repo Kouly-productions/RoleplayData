@@ -150,5 +150,53 @@
     "imagePath": "Lynkald-638353146592706826.jpg",
     "abilityType": 3,
     "IsAOE": true
+  },
+  {
+    "Name": "strøm magi",
+    "Description": "den her strøm magi skyder du strøm ud med dine hænder,er meget kraftfuld",
+    "AbilityLevelRequirement": 10,
+    "imagePath": "strømhånd magi-638353169892506042.jpg",
+    "abilityType": 3,
+    "IsAOE": false
+  },
+  {
+    "Name": "stealth",
+    "Description": "du gøre dig helt usynlig hvor du kan rykke på ting og alt muligt imens,du er usynlig indtil at du angriber",
+    "AbilityLevelRequirement": 10,
+    "imagePath": "gøre dig usynlig-638353171758584386.jpg",
+    "abilityType": 4,
+    "IsAOE": false
+  },
+  {
+    "Name": "jordrysttelse",
+    "Description": "denne her får du jorden til at ryste helt vildt,hvor bygninger og dem på land vil blive skadet",
+    "AbilityLevelRequirement": 10,
+    "imagePath": "jordrysttelse-638353173710277817.jpg",
+    "abilityType": 4,
+    "IsAOE": true
+  },
+  {
+    "Name": "flammetornato",
+    "Description": "den fungere ligesom en normal tornato,men hvor den er farligere da den er lavet af i",
+    "AbilityLevelRequirement": 10,
+    "imagePath": "flammehvirvel-638353174864745894.jpg",
+    "abilityType": 0,
+    "IsAOE": true
+  },
+  {
+    "Name": "frostbølge",
+    "Description": "Udløser en bølge af kulde, der kan fryse eller sænke fjender.skyder lige ud,fosætter indtil der er noget der blocker som vil fryse det til is istedenfor",
+    "AbilityLevelRequirement": 10,
+    "imagePath": "frostbølge-638353175752003937.jpg",
+    "abilityType": 2,
+    "IsAOE": true
+  },
+  {
+    "Name": "magisk skjold",
+    "Description": "det skjold beskytter dig eller en ven mod skade,skjoldet skal blivet ramt 12 gange for det går istykker,og skal være kraftige våben eller magiske skade for den tager skade",
+    "AbilityLevelRequirement": 12,
+    "imagePath": "magisk skjold-638353177482564139.jpg",
+    "abilityType": 6,
+    "IsAOE": false
   }
 ]
