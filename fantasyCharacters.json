@@ -943,7 +943,11 @@
         "Skill": "verdens mester til at gøre folk mega sure"
       }
     ],
-    "Friends": [],
+    "Friends": [
+      {
+        "Friend": "bedste mor gris"
+      }
+    ],
     "Enemies": [
       {
         "Enemy": "jacobhelten"
