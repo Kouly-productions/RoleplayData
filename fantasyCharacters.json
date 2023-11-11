@@ -954,9 +954,6 @@
       },
       {
         "Enemy": "gmod"
-      },
-      {
-        "Enemy": "fnaf landet"
       }
     ],
     "Abilities": [],
@@ -966,7 +963,7 @@
     "Power": 7,
     "Age": 40,
     "ImagePath": "pumbaa-638350650940675245.png",
-    "MusicPath": "pumb-638352500651769227.wav"
+    "MusicPath": "Pump-638353383044681725.wav"
   },
   {
     "Name": "fuseli",
