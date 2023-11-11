@@ -3286,5 +3286,65 @@
     "Age": 18,
     "ImagePath": "vanny-638352383872799775.jpg",
     "MusicPath": "vanny-638352485094281825.wav"
+  },
+  {
+    "Name": "Dulcinea",
+    "Country": "Sandloranso",
+    "Money": "0",
+    "Description": "En dag, vil jeg købe en større buks takket være devine shield",
+    "CharacterHistory": "Dulcinea er en omsorgsfuld, positiv og glad kat. Skulle man tro, men hun er en af de ondeste skurke hun prøver konstant at overtage verdenen og forvandle folk til duller. Hun er meget fokuseret på at alle skal blive som hende",
+    "Level": 6,
+    "Health": 0,
+    "Armor": 0,
+    "Haste": 0,
+    "Strength": 0,
+    "Dexterity": 0,
+    "Constitution": 0,
+    "Intellect": 0,
+    "Wisdom": 0,
+    "Charisma": 0,
+    "Actrobatic": 0,
+    "AnimalTaiming": 0,
+    "Arcana": 0,
+    "Athletics": 0,
+    "Deception": 0,
+    "History": 0,
+    "Insight": 0,
+    "Intimidation": 0,
+    "Investigation": 0,
+    "Medicine": 0,
+    "Nature": 0,
+    "Perception": 0,
+    "Performance": 0,
+    "Persuasion": 0,
+    "SleightOfHand": 0,
+    "Stealth": 0,
+    "Survival": 0,
+    "SavingStrength": 0,
+    "SavingDexterity": 0,
+    "SavingConstitution": 0,
+    "SavingIntellect": 0,
+    "SavingWisdom": 0,
+    "SavingCharisma": 0,
+    "LoverId": null,
+    "Skills": [
+      {
+        "Skill": "Nuttet"
+      }
+    ],
+    "Friends": [
+      {
+        "Friend": "Bestøvlede kat"
+      }
+    ],
+    "Enemies": [],
+    "Abilities": [],
+    "ModifiersCombined": 0,
+    "Gender": 1,
+    "Type": 7,
+    "Power": 5,
+    "Age": 26,
+    "ImagePath": "dulcinea-638353338112761193.jpg",
+    "MusicPath": "Dul-638353349295469712.wav"
   }
 ]
