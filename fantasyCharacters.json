@@ -970,7 +970,7 @@
     "Money": "0",
     "Description": "det en stor fod",
     "CharacterHistory": "",
-    "Level": 5,
+    "Level": 8,
     "Health": 0,
     "Armor": 0,
     "Haste": 0,
@@ -1018,11 +1018,44 @@
         "Enemy": "jacobhelten"
       }
     ],
-    "Abilities": [],
+    "Abilities": [
+      {
+        "Name": "Illusionsskabelse i vågen tilstand",
+        "Description": "Evnen til at forlænge virkningerne af mareridt selv efter personen vågner, hvilket får dem til at opleve hallucinationer eller illusioner.",
+        "AbilityLevelRequirement": 8,
+        "imagePath": "Illusionsskabelse i vågen tilstand-638353290494054788.jpg",
+        "abilityType": 4,
+        "IsAOE": false
+      },
+      {
+        "Name": "Psykisk forbindelse",
+        "Description": "At skabe en mental forbindelse med ofre gennem deres drømme for at påvirke deres tanker eller følelser.",
+        "AbilityLevelRequirement": 8,
+        "imagePath": "Psykisk forbindelse-638353291312585769.jpg",
+        "abilityType": 4,
+        "IsAOE": false
+      },
+      {
+        "Name": "Mareridtskabelse",
+        "Description": "Specifikt at fremkalde skræmmende eller foruroligende drømme, som kan have psykologisk effekt på offeret.",
+        "AbilityLevelRequirement": 8,
+        "imagePath": "Mareridtskabelse-638353291759120423.jpg",
+        "abilityType": 4,
+        "IsAOE": false
+      },
+      {
+        "Name": "Evnen til at trænge ind i og kontrollere indholdet af en persons drømme",
+        "Description": "Evnen til at trænge ind i og kontrollere indholdet af en persons drømme.",
+        "AbilityLevelRequirement": 8,
+        "imagePath": "drømmemanipulation-638353292678588377.jpg",
+        "abilityType": 4,
+        "IsAOE": false
+      }
+    ],
     "ModifiersCombined": 0,
     "Gender": 0,
     "Type": 6,
-    "Power": 1,
+    "Power": 2,
     "Age": 40,
     "ImagePath": "fuseli-638350653884454623.jpg",
     "MusicPath": "fuseli-638352484567595806.wav"
